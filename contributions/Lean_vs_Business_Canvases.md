@@ -15,7 +15,7 @@ D'abord, un rapide historique.
 ### Mai 2009
 Mon premier contact avec le Business Model Canvas s'est fait via le livre de Alex Osterwalder : "Business Model Generation". Bien que je trouve le livre magnifiquement illustré, j'ai d'abord rejeté l'approche canevas car "trop simpliste". Beaucoup d'exemples du livre illustrent des business models (NdT : modèles économiques) de sociétés bien connues comme Apple et Skype, mais après qu'elles aient réussi. J'étais plus intéressé par l'apprentissage qui les avait mené jusque là.
 
-![Pic](http://1.1.1.5/bmi/wiki.ayeba.fr/file/view/Lean_Canvas_Revenu_Time.png/530373544/486x320/Lean_Canvas_Revenu_Time.png)
+![Pic](http://1.1.1.5/bmi/wiki.ayeba.fr/file/view/Lean_Canvas_Revenu_Time.png)
 
 ### Juin 2009
 
@@ -32,7 +32,7 @@ J'ai sollicité l'aide d'autres entrepreneurs pour commencer à construire une v
 
 Le Lean Canvas est également devenu un élément essentiel de la méthode décrite dans mon livre : Running Lean, d'abord auto-publié sous la forme d'un ebook en Février 2010, et actuellement réédité chez O'Reilly depuis Mars 2012.
 
-![Lean](http://1.1.1.3/bmi/wiki.ayeba.fr/file/view/leancanvas_creativecommons.png/530390920/640x543/leancanvas_creativecommons.png)
+![Lean](http://1.1.1.3/bmi/wiki.ayeba.fr/file/view/leancanvas_creativecommons.png)
 
 ## OBJECTIFS DE CONCEPTION
 
