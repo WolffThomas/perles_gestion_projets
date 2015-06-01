@@ -15,8 +15,6 @@ D'abord, un rapide historique.
 ### Mai 2009
 Mon premier contact avec le Business Model Canvas s'est fait via le livre de Alex Osterwalder : "Business Model Generation". Bien que je trouve le livre magnifiquement illustré, j'ai d'abord rejeté l'approche canevas car "trop simpliste". Beaucoup d'exemples du livre illustrent des business models (NdT : modèles économiques) de sociétés bien connues comme Apple et Skype, mais après qu'elles aient réussi. J'étais plus intéressé par l'apprentissage qui les avait mené jusque là.
 
-![Pic](http://1.1.1.5/bmi/wiki.ayeba.fr/file/view/Lean_Canvas_Revenu_Time.png)
-
 ### Juin 2009
 
 Je suis resté sur cette position jusqu'à ce que je vois une variante de mon collègue entrepreneur Rob Fitzpatrick (Startup Toolkit) qui incorporait les fiches de Steve Blank tirées de son livre "Les Quatre Etapes vers l'Epiphanie", j'ai alors considéré plus sérieusement le canevas. J'avais moi-même utilisé les fiches de Steve Blank et j'avais eu à coeur de les tenir à jour. L'idée de capturer des hypothèses d'un business model sur une seule page semblait remarquable. J'ai modélisé mes produits existants de l'époque en utilisant les deux canevas, c'est ce qui m'a incité à bricoler le mien, et c'est ce que je vais décrire ci-dessous.
@@ -32,7 +30,7 @@ J'ai sollicité l'aide d'autres entrepreneurs pour commencer à construire une v
 
 Le Lean Canvas est également devenu un élément essentiel de la méthode décrite dans mon livre : Running Lean, d'abord auto-publié sous la forme d'un ebook en Février 2010, et actuellement réédité chez O'Reilly depuis Mars 2012.
 
-![Lean](http://1.1.1.3/bmi/wiki.ayeba.fr/file/view/leancanvas_creativecommons.png/530390920/640x543/leancanvas_creativecommons.png)
+![Pic]( https://framapic.org/0Noql5EZr6R8/PujfSO6n)
 
 ## OBJECTIFS DE CONCEPTION
 
@@ -85,6 +83,8 @@ Cette case n'a pas pour objectif de vous décourager d'avancer sur votre vision,
 L'ajout de ces quatre nouvelles cases signifie que je devais en remplacer quatre autres.
 
 > “La perfection n'est pas atteinte lorsque vous n'avez plus rien à ajouter, mais lorsque vous n'avez plus rien à enlever.” – Antoine de Saint-Exupery
+
+![Ajout](https://framapic.org/WZxfT6rAc3uf/Umgfr5gA)
 
 ## VOILA CE QUE J'AI ENLEVE
 
