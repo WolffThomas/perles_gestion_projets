@@ -113,4 +113,4 @@ Au fil du temps, les partenaires peuvent devenir critiques pour optimiser votre 
 
 ## Sources 
 
-* Publié par [Fabrice Aimetti](http://wiki.ayeba.fr/Qu%27est-ce+qui+justifie+un+Lean+Canvas+par+rapport+%C3%A0+un+Business+Model+Canvas+%3F)
+* [Wiki Ayeba](http://wiki.ayeba.fr/Qu%27est-ce+qui+justifie+un+Lean+Canvas+par+rapport+%C3%A0+un+Business+Model+Canvas+%3F)
