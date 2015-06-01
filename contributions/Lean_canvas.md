@@ -18,11 +18,13 @@ L'approche du Running lean permet de valider par séries d'itérations chacune d
 
 ## Lean Canvas
 
-![Lean]( https://framapic.org/qm0OLKG7noR2/xGNAum5W) **[1](#note)**
+![Lean](https://framapic.org/qm0OLKG7noR2/xGNAum5W) **[1](#note)**
 
 ![Lean](https://framapic.org/67aFwqPW5wyu/xcgUnRyQ) **[1](#note)**
 
 ![Vierge](https://framapic.org/e7umOynjhp4r/YZ1xlWZu) **[1](#note)**
+
+![Other](http://upload.wikimedia.org/wikipedia/commons/2/22/Lean_Canvas.png) **[3](#note)**
 
 ## Lean canvas virtuel
 
@@ -34,6 +36,7 @@ L'approche du Running lean permet de valider par séries d'itérations chacune d
 
 * **1** [Fabrice Aimetti](http://wiki.ayeba.fr/Lean+Canvas), pour Wiki Ayeba, sous licence Creative Commons BY
 * **2** Thomas Wolff, sous licence Creative Commons BY-SA
+* **3** [Wikipedia](http://upload.wikimedia.org/wikipedia/commons/2/22/Lean_Canvas.png), sous licence Creative Commons BY-SA
 
 
 
