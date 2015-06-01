@@ -32,7 +32,7 @@ J'ai sollicité l'aide d'autres entrepreneurs pour commencer à construire une v
 
 Le Lean Canvas est également devenu un élément essentiel de la méthode décrite dans mon livre : Running Lean, d'abord auto-publié sous la forme d'un ebook en Février 2010, et actuellement réédité chez O'Reilly depuis Mars 2012.
 
-![Lean](http://1.1.1.3/bmi/wiki.ayeba.fr/file/view/leancanvas_creativecommons.png)
+![Lean](http://1.1.1.3/bmi/wiki.ayeba.fr/file/view/leancanvas_creativecommons.png/530390920/640x543/leancanvas_creativecommons.png)
 
 ## OBJECTIFS DE CONCEPTION
 
