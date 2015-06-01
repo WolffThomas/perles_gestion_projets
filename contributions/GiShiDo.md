@@ -1,6 +1,6 @@
 #GISHIDO
 
-##The Art of *G*etting your *S*hit *D*one
+##The Art of **G**etting your **S**hit **D**one
 
 "On arrête les conneries!" 
 
