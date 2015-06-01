@@ -18,7 +18,7 @@ L'approche du Running lean permet de valider par séries d'itérations chacune d
 
 ## Lean Canvas
 
-![Lean](https://framapic.org/d/qm0OLKG7noR2/W19kqQpbhkUE73N20JO6xftQ) **[1](#note)**
+![Lean]( https://framapic.org/qm0OLKG7noR2/xGNAum5W) **[1](#note)**
 
 ![Lean](https://framapic.org/67aFwqPW5wyu/xcgUnRyQ) **[1](#note)**
 
