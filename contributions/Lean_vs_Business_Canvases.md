@@ -106,7 +106,7 @@ Je suis partisan du fait de démarrer chaque produit (peu importe ce que vous co
 
 Je dois vous avouer que ce fut le plus difficile à retirer et c'est ce qui a généré le plus de discussions. Effectivement, le succès de certains types de produits repose sur l'établissement de bons partenariats clés. Par exemple, construire un réseau mondial de l'énergie solaire, qui repose sur des exigences réglementaires d'énormes fonds propres, réclamerait probablement l'établissement de partenariats clés en premier lieu. Mais je dirais que la plupart des produits ne tombent pas dans cette catégorie.
 
-    Lorsque vous êtes une startup inconnue avec un produit non testé, chercher à établir des partenariats clés dès le premier jour peut être une forme de gaspillage.
+> Lorsque vous êtes une startup inconnue avec un produit non testé, chercher à établir des partenariats clés dès le premier jour peut être une forme de gaspillage.
 
 
 Au fil du temps, les partenaires peuvent devenir critiques pour optimiser votre business model, mais ici le risque n'est pas le manque de partenaires, il relève plutôt d'inefficacités dans la Structure des Coûts et les Canaux de Distribution, ces deux dernières cases conviennent donc le mieux.
