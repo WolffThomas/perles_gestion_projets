@@ -40,13 +40,13 @@ Mon objectif principal avec le Lean Canvas était de le rendre aussi actionnable
 
 Je travaillais déjà avec les principes du Lean Startup qui ont une grande influence sur la conception.
 
-    "Les startups opèrent dans des conditions d'incertitude extrême." - Eric Ries
+> "Les startups opèrent dans des conditions d'incertitude extrême." - Eric Ries
 
 
 Mon approche pour rendre le canevas actionnable a été de de capturer ce qui était le plus incertain, ou plus exactement, ce qui était le plus risqué.
 
-    "Incertitude : L'absence de certitude en matière de concurrence, à savoir, l'existence de plus d'une possibilité.
-    Risque : Un état d'incertitude où certaines possibilités impliquent une perte, une catastrophe, ou tout autre résultat indésirable." - Douglas Hubbard
+> "Incertitude : L'absence de certitude en matière de concurrence, à savoir, l'existence de plus d'une possibilité.
+> Risque : Un état d'incertitude où certaines possibilités impliquent une perte, une catastrophe, ou tout autre résultat indésirable." - Douglas Hubbard
 
 
 J'avais trouvé que les Business Model Canvas que j'avais créés en Août 2009 comportaient des lacunes sur des choses que je considérais comme étant très risquées alors que d'autres choses présentes sur le canevas ne présentaient pas autant de risques. Comme le canevas était déjà assez limité en espace, il était important de maximiser le rapport "signal/bruit". Donc j'ai commencé à renégocier les cases du canevas.
@@ -57,7 +57,7 @@ J'avais trouvé que les Business Model Canvas que j'avais créés en Août 2009 
 
 La plupart des startups échouent, non pas parce qu'elles ne parviennent pas à construire ce qu'elles avaient prévu de construire, mais parce qu'elles perdent du temps, de l'argent et de l'énergie en construisant le mauvais produit. Je considère qu'un facteur déterminant de cet échec est un manque de bonne "compréhension du problème" dès le départ.
 
-    “Un problème bien posé est un problème à moitié résolu.” – Charles Kettering
+> “Un problème bien posé est un problème à moitié résolu.” – Charles Kettering
 
 
 Voilà pourquoi j'ai choisi de rendre explicite la case "Problème", pour qu'il ne reste pas une forme dérivée de quelque chose d'autre, comme la Proposition de Valeur.
@@ -70,7 +70,7 @@ Une fois que vous comprenez le problème, vous êtes alors dans une meilleure po
 
 Les startups se noient souvent dans une mer de chiffres en tentant de mettre de l'ordre dans le chaos de l'incertitude. À un moment donné cependant, il y a seulement quelques actions clés (ou quelques indicateurs) qui entrent en ligne de compte.
 
-    "Une startup ne peut se concentrer que sur un seul indicateur. Donc, vous devez décider lequel et ignorer tout le reste." – Noah Kagan
+> "Une startup ne peut se concentrer que sur un seul indicateur. Donc, vous devez décider lequel et ignorer tout le reste." – Noah Kagan
 
 
 En quoi est-ce un risque ? L'incapacité à identifier le bon indicateur clé peut être catastrophique, menant à des activités inutiles comme l'optimisation prématurée ou le fait de manquer de ressources tout en courant après le mauvais objectif. Ces indicateurs clés doivent d'abord être centrés autour de vos mesures de valeur, plus tard ils tendront à mesurer vos principaux moteurs de la croissance.
@@ -79,15 +79,12 @@ En quoi est-ce un risque ? L'incapacité à identifier le bon indicateur clé pe
 
 Ceci est un autre nom pour l'avantage concurrentiel ou les obstacles à l'entrée des concurrents que l'on retrouve souvent dans un business plan (NdT : modèle d'affaires). Je suis conscient du fait que peu de startups ont un véritable avantage déloyal le premier jour, ce qui qui signifie que cette case peut rester vide.
 
-    "Un véritable avantage déloyal est quelque chose qui ne peut être facilement copié ou acheté." – Jason Cohen
-
+> "Un véritable avantage déloyal est quelque chose qui ne peut être facilement copié ou acheté." – Jason Cohen
 
 Cette case n'a pas pour objectif de vous décourager d'avancer sur votre vision, mais plutôt de vous encourager continuellement à œuvrer à la recherche/construction de votre avantage déloyal. Une fois que la startup aura atteint un certain niveau de succès, il est inévitable que les concurrents et les copieurs entreront sur le marché. Si vous ne disposez pas d'un moyen de défense contre eux, vous vous exposer au risque réel de disparaître à cause de ces concurrents qui vous suivent de trop près.
 L'ajout de ces quatre nouvelles cases signifie que je devais en remplacer quatre autres.
 
-![Im](http://1.1.1.5/bmi/wiki.ayeba.fr/file/view/lean_canvas_what_changed.png/530407654/640x402/lean_canvas_what_changed.png)
-
-    “La perfection n'est pas atteinte lorsque vous n'avez plus rien à ajouter, mais lorsque vous n'avez plus rien à enlever.” – Antoine de Saint-Exupery
+> “La perfection n'est pas atteinte lorsque vous n'avez plus rien à ajouter, mais lorsque vous n'avez plus rien à enlever.” – Antoine de Saint-Exupery
 
 ## VOILA CE QUE J'AI ENLEVE
 
@@ -97,8 +94,8 @@ Je pensais que ces deux cases étaient plutôt d'origine externe (par rapport à
 
 J'ai également trouvé une certaine redondance avec les cases que j'ai déjà ajoutées :
 
-    Je crois que les Activités Clés peuvent et doivent être vraiment dérivées de la case Solution une fois que le MVP a subi certains premiers tests / validation.
-    Construire des produits ne sollicite pas aujourd'hui autant de ressources (physiques) qu'avant. Avec l'arrivée de l'Internet, de l'Open Source, du Cloud computing et de la mondialisation, nous n'avons plus besoin d'autant de ressources pour obtenir un produit sur le marché, ce qui fait que les Ressources Clés sont nettement plus en phase avec l'Avantage Déloyal. Mais alors qu'une Ressource Clé peut constituer un Avantage Déloyal, tous les Avantages Déloyaux ne sont pas des Ressources Clés.
+> Je crois que les Activités Clés peuvent et doivent être vraiment dérivées de la case Solution une fois que le MVP a subi certains premiers tests / validation.
+> Construire des produits ne sollicite pas aujourd'hui autant de ressources (physiques) qu'avant. Avec l'arrivée de l'Internet, de l'Open Source, du Cloud computing et de la mondialisation, nous n'avons plus besoin d'autant de ressources pour obtenir un produit sur le marché, ce qui fait que les Ressources Clés sont nettement plus en phase avec l'Avantage Déloyal. Mais alors qu'une Ressource Clé peut constituer un Avantage Déloyal, tous les Avantages Déloyaux ne sont pas des Ressources Clés.
 
 
 ### Relation avec les clients
