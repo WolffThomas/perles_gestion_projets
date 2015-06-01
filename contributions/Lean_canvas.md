@@ -16,9 +16,9 @@ L'approche du Running lean permet de valider par séries d'itérations chacune d
 
 **Vous trouverez l'ebook expliçitant l'approche [ici](http://www.enactusryerson.ca/wp-content/uploads/2014/03/RunningLean.pdf).**
 
-## Lean Canvas
+![Running](http://4.bp.blogspot.com/-K7Pn8agklq4/UQEzc1LxbmI/AAAAAAAADjg/sXc821hX7Cc/s1600/Empty-Canvas.png)
 
-![Lean](https://framapic.org/qm0OLKG7noR2/xGNAum5W) **[1](#note)**
+## Lean Canvas
 
 ![Lean](https://framapic.org/67aFwqPW5wyu/xcgUnRyQ) **[1](#note)**
 
