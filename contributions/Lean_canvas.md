@@ -2,7 +2,7 @@
 
 ## En une phrase
 
-Un Lean canvas permet de documenter un Business model; cette approche convient tout particulièrement à la gestion de projets innovants. **[2](#note)**
+Un Lean canvas permet de valider et de documenter un Business model en une page. **[2](#note)**
 
 ## A quoi ça sert? 
 
