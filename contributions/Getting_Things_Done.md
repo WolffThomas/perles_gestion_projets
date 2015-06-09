@@ -19,4 +19,4 @@ Getting Things Done© est une méthode d'organisation personnelle ayant fait l'o
 <a id="note">
 
 * **[1](#note)** Thomas Wolff, sous licence Creative Commons BY-SA
-* **[2](#note)** Une image par ![psychoslave](http://commons.wikimedia.org/wiki/File:Orga_GTD.svg), selon les termes de la licence Creative Commons BY-SA
+* **[2](#note)** Une image par Psychoslave, selon les termes de la licence Creative Commons BY-SA
