@@ -1,6 +1,6 @@
 #Camp ouvert
 
-Cette procédure a vocation à organiser un camp de 6 jours dans un chalet de montagne, pour permettre des rencontres inter-réseaux.
+Cette procédure a vocation à organiser un camp de 6 jours dans un chalet de montagne, pour permettre des rencontres inter-réseaux. 
 
 ![Coworking](https://framapic.org/mRGQLlVRhPmi/kZ1XEWca)
 
@@ -36,3 +36,7 @@ Cette procédure a vocation à organiser un camp de 6 jours dans un chalet de mo
 * **Pas de comité de pilotage**
 
 > Organisation, réservation du lieu, organisation du covoiturage à l'initiative des participants.
+
+## Etat d'avancement
+
+A mettre en oeuvre pour septembre 2015.
