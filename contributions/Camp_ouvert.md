@@ -13,24 +13,24 @@ Cette procédure a vocation à organiser un camp de 6 jours dans un chalet de mo
 
 * **Ca commence quand ça commence, ça finit quand ça finit**
 
-> On connaît le jour et l'heure de début annoncé de l'évènement, ainsi que ça la fin. Ca commence quand vous arrivez, ça finit quand vous repartez.
+> On connaît le jour et l'heure de début annoncé de l'évènement, ainsi que ça la fin. Ca commence quand vous arrivez, ça finit quand vous repartez. C'est prévu pour 6 jours, vous pourrez juste rester 2 jours.
 
 * **La qualité, pas la quantité**
 
 > C'est pas la taille qui compte.
 
-* **Proposer, ne pas imposer**
+* **Proposer, ne pas déranger**
 
-> Aucune activité n'est proposée, pas même des ateliers. Vous pouvez par exemple proposer le jour même un atelier. Il se peut que plusieurs participants aient à travailler individuellement sur leurs projets.
+> Aucune activité n'est proposée, pas même des ateliers. Vous pouvez par exemple proposer le jour même une session de randonnée/coworking. Il se peut que plusieurs participants aient à ce moment là besoin de travailler individuellement sur leurs projets, et aient besoin de calme.
 
 * **Privilégier, favoriser, enrichir les biens communs**
 
-> Ne pas réinventer la roue, enrichir ce qui existe déjà, ...
+> Bénéficier des ressources collectives (le lieu, repas, les ressources numériques, les compétences,...) et les enrichir. 
 
 * **Si une situation ne convient pas, construire une alternative**
 
-> Exemple: si le dortoir ne convient pas, vous pourrez sûrement trouver un gite à proximité. Si 6 jours c'est trop, vous pouvez aussi rester 2 jours.
+> Le format de l'évènement est ouvert. Si dormir dans un dortoir ne convient pas, trouver un gîte non loin du lieu. 
 
 * **Pas de comité de pilotage**
 
-> Ca prend trop de temps
+> Organisation, réservation du lieu, organisation du covoiturage à l'initiative des participants. 
