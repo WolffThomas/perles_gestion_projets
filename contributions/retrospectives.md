@@ -1,6 +1,6 @@
 #La retrospective
 
-![Pic](https://c2.staticflickr.com/6/5500/9681413346_06c158a554_b.jpg) Photo par [Markus Spiering](https://www.flickr.com/photos/spierisf/9681413346/in/photolist-fKvLTL-4sUvo7-nt5muV-7383Px-9aEbV3-rwqSJc-5kF81j-7cQ9nb-9aBnq4-4vd3zd-nTZ8P-oTE94y-eT8EtJ-mPW47z-2YUoWy-9qHdb8-pjWMyH-fhQFu-eXLwhK-5112SQ-dWuDJF-dTsgQo-6e1fje-5ft7dB-nLt6yB-5REnBM-53BLW6-bCNELx-gG6oht-7A8aWw-7p4RPT-sseZ1j-5ABa3K-4h3gXB-fhQMD-suyrMc-6AFddG-8aGANn-7zxwU5-6oaunE-9aE5xu-gTsxQ-bKLyn-8aGAMk-3V2FLH-d6G1Uy-iUA6RQ-5kF8bs-6JfNJo-jeJE8T)
+![Pic](https://c2.staticflickr.com/6/5500/9681413346_06c158a554_b.jpg)
 
 Retrouvez plusieurs dizaines de formats de retrospective [ici en anglais](http://plans-for-retrospectives.com) et [ici en français](http://plans-for-retrospectives.com/index_fr.html?id=40-40-40-17-23-34-40-40-40)
 
