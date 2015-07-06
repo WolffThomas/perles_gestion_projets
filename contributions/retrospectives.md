@@ -41,7 +41,7 @@ Les participants collent les post-its sur la nappe et les lisent à haute voix.
 
 [De nombreuses possibilités](http://plans-for-retrospectives.com/index_fr.html?id=8-9-10-20-25-26-37-41)
 
-**Qu'est-ce qui pourrait faire que la prochaine itération obtiennent une note de 10 sur 10 ?**
+**Qu'est-ce qui pourrait faire que la prochaine itération obtient une note de 10 sur 10 ?**
 Source : Ben Linders
 Dessinez deux colonnes sur une feuille du tableau, une petite pour 'Évaluation' et une grande pour 'Actions'. Tout le monde évalue la dernière itération sur une échelle de 1 à 10. Ensuite chacun suggère quelles action(s) feraient que la prochaine itération obtienne un score de 10 sur 10.
 
