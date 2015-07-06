@@ -16,10 +16,10 @@ De [nombreuses possibilités](http://plans-for-retrospectives.com/?id=1-2-3-18-2
 * Présenter les 4 concepts suivants aux participants de la retrospective et leur proposer d'exprimer leur positionnement via un tour de table.
 
 > Lors de cette retrospective, êtes vous plutôt ...?
-> Explorateurs : désireux de plonger dans la rechercher de ce qui a bien marché, ce qui a moins bien marché, de comment améliorer.
-> Shopping: attitude positive, heureux si on en sort de bonnes choses.
-> Vacancier: présent, observateur mais pas trop actif. 
-> Prisonnier: ici car sentiment d'obligation / obligation. 
+> **Explorateur** : désireux de plonger dans la rechercher de ce qui a bien marché, ce qui a moins bien marché, de comment améliorer.
+> **Shopping**: attitude positive, heureux si on en sort de bonnes choses.
+> **Vacancier**: présent, observateur mais pas trop actif. 
+> **Prisonnier**: ici car sentiment d'obligation / obligation. 
 
 ### 2. Reccueillir les données
 
@@ -33,7 +33,7 @@ Chacun des participants écrit les évènements marquants sur des post-its et le
 Les participants collent les post-its sur la nappe et les lisent à haute voix. 
 
 > Je choisis une frise chronologique comme axe horizontal, puis comme axe vertical un axe satisfaction/insatisfait. Ainsi, lorsqu'il participant dépose son post-it, il est invité à la fois à indiquer à quel moment l'évènement est survenu, mais aussi son degré de satisfaction par rapport à ce même évènement.
-> Si des passionnés de sribing sont présents dans la salle, je leur propose de s'occuper de la restitution et de questionner les participants.
+> Si des passionnés de scribing sont présents dans la salle, je leur propose de s'occuper de la restitution et de questionner les participants.
 
 ### 3. Générer des idées
 
@@ -73,7 +73,4 @@ De [nombreuses possibilités](http://plans-for-retrospectives.com/index_fr.html?
 
 Qu'est-ce qui a plu et/ou supris les participants pendant la retrospective?
 Source : Unknown
-Faites simplement un rapide tour du groupe et invitez chaque participant à pointer du doigt une constatation de la retrospective qui les a soit surpris soit ravi (ou les deux). 
-
-
-
+Faites simplement un rapide tour du groupe et invitez chaque participant à pointer du doigt une constatation de la retrospective qui les a soit surpris soit ravi (ou les deux).
