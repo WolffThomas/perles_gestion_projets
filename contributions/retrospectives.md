@@ -49,7 +49,9 @@ Photo par [Moustic](http://moustic.info), sous licence Creative Commons BY-SA
 Source : Ben Linders
 Dessinez deux colonnes sur une feuille du tableau, une petite pour 'Évaluation' et une grande pour 'Actions'. Tout le monde évalue la dernière itération sur une échelle de 1 à 10. Ensuite chacun suggère quelles action(s) feraient que la prochaine itération obtienne un score de 10 sur 10.
 
-> Ré-expliquer les règles du Brainstorming (suspendre son jugement etc.)
+> Sur la photo ci dessous, nous avons proposé une évaluation par positionnement dans la salle. Près de la fenêtre : 0; près du mur: 10.
+
+![Evaluation](https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11243658_103433483335939_931327734_n.jpg)
 
 ### 4. Décider des actions
 
