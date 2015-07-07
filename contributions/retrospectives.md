@@ -53,6 +53,8 @@ Dessinez deux colonnes sur une feuille du tableau, une petite pour 'Évaluation'
 
 ![Evaluation](https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11243658_103433483335939_931327734_n.jpg)
 
+Photo par [Moustic](http://moustic.info), sous licence Creative Commons BY-SA
+
 ### 4. Décider des actions
 
 De [nombreuses possibilités](http://plans-for-retrospectives.com/index_fr.html?id=11-12-13-21-24-29-38-39).
