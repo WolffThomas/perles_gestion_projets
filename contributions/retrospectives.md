@@ -37,6 +37,10 @@ Les participants collent les post-its sur la nappe et les lisent à haute voix.
 > Je choisis une frise chronologique comme axe horizontal, puis comme axe vertical un axe satisfaction/insatisfait. Ainsi, lorsqu'il participant dépose son post-it, il est invité à la fois à indiquer à quel moment l'évènement est survenu, mais aussi son degré de satisfaction par rapport à ce même évènement.
 > Si des passionnés de scribing sont présents dans la salle, je leur propose de s'occuper de la restitution et de questionner les participants.
 
+![Image](https://scontent-fra3-1.cdninstagram.com/hphotos-xpa1/l/t51.2885-15/1516321_1646047335608885_1457083728_n.jpg)
+
+Photo par [Moustic](http://moustic.info), sous licence Creative Commons BY-SA
+
 ### 3. Générer des idées
 
 [De nombreuses possibilités](http://plans-for-retrospectives.com/index_fr.html?id=8-9-10-20-25-26-37-41)
