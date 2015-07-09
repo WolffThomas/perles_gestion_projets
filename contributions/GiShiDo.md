@@ -1,7 +1,6 @@
 #GISHIDO
 
 ![Garde à vous](https://c1.staticflickr.com/5/4051/4628396987_30d59dd5dd_b.jpg)
-Photo par [THS D90](https://www.flickr.com/photos/sylvainthiebaut/4628396987/) en Creative Commons BY-ND
 
 ##The Art of **G**etting your **S**hit **D**one
 
