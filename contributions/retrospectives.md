@@ -75,12 +75,26 @@ Menez la conversation pour identifiez 20% des idées qui seraient les plus bén�
 Laissez chacun voter avec des gommettes ou avec un marqueur en pouvant distribuer 1, 2 ou 3 points aux idées (répartis comme bon lui semble).
 Les 2 ou 3 principales idées seront votre plan d'actions. 
 
+> Dans la photo ci dessous, nous nous sommes déplacés à la biblothèque municipale et nous sommes servis d'un "pilier" pour y accrocher des post-its. Plus de post-it est "en haut", plus il est considéré comme prioritaire (c'est à dire à la fois important / urgent) par les participants. Dans ce cas çi nous n'avons pas utilisé de gomettes.
+
+![moutic](https://igcdn-photos-e-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/11379947_936047323141476_5037410_n.jpg)
+
+Photo par [Moustic](http://moustic.info), sous licence Creative Commons BY-SA
+
 ### 5. Clore la retrospective
 
 De [nombreuses possibilités](http://plans-for-retrospectives.com/index_fr.html?id=14-15-16-17-23-34-40-44-45)
+
+Photo par [Moustic](http://moustic.info), sous licence Creative Commons BY-SA
 
 **Ravi & Surpris**
 
 Qu'est-ce qui a plu et/ou supris les participants pendant la retrospective?
 Source : Unknown
 Faites simplement un rapide tour du groupe et invitez chaque participant à pointer du doigt une constatation de la retrospective qui les a soit surpris soit ravi (ou les deux).
+
+![compilation](https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11378581_949579518418053_481210022_n.jpg)
+
+## Sources
+
+Document compilé et publié par Thomas Wolff, selon les termes de la licence Creative Commons BY-SA
