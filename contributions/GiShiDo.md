@@ -1,5 +1,7 @@
 #GISHIDO
 
+![Garde à vous](https://c1.staticflickr.com/5/4051/4628396987_30d59dd5dd_b.jpg)
+
 ##The Art of **G**etting your **S**hit **D**one
 
 "On arrête les conneries!" 
@@ -36,5 +38,3 @@
 ## Sources
 
 * une traduction de [Fabrice AIMETI](http://www.fabrice-aimetti.fr/dotclear/public/traductions/gyshido/GyShiDo_-_Get_Your_Shit_Done__fr.html), publiée selon les termes de la licence Creative Commons BY-NC-SA
-
-
