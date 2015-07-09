@@ -95,6 +95,10 @@ Faites simplement un rapide tour du groupe et invitez chaque participant à poin
 
 ![compilation](https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11378581_949579518418053_481210022_n.jpg)
 
+### (6. Garder des traces)
+
+Dans l'exemple montré ci dessus nous avons reccueilli les données dans un [tableau trello](https://trello.com/b/ecEJeV9i/mousticos) et invité les participants à le rejoindre. 
+
 ## Sources
 
 Document compilé et publié par Thomas Wolff, selon les termes de la licence Creative Commons BY-SA
