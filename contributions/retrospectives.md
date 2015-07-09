@@ -2,13 +2,25 @@
 
 ![Pic](https://c2.staticflickr.com/6/5500/9681413346_06c158a554_b.jpg)
 
-Retrouvez plusieurs dizaines de formats de retrospective [ici en anglais](http://plans-for-retrospectives.com) et [ici en français](http://plans-for-retrospectives.com/index_fr.html?id=40-40-40-17-23-34-40-40-40)
+## En une phrase
 
-## Procédure 
+Une retrospective est un temps collectif et intensif d'équipe où les participants vont pouvoir s'exprimer sur ce qui s'est passé depuis la dernière réunion de ce type, et décider des prochaines actions à réaliser jusqu'à la prochaine réunion de ce type. 
+
+## A quoi ça sert? 
+
+* permettre à tous les membres d'une équipe de se retrouver et d'exprimer leur vision de ce qui s'est passé sur la précédente période 
+* favoriser des échanges libres, constructifs et focalisés
+* prendre des décisions sur les actions d'amélioration / remédiation sur la période à venir
+
+## Procédures
 
 ![retrospective](http://wiki.ayeba.fr/file/view/retro-structure_fr.png/542598702/retro-structure_fr.png)
 
 Image par [Fabrice Aimetti](http://wiki.ayeba.fr/5+%C3%A9tapes+pour+rendre+efficace+votre+r%C3%A9trospective+de+sprint), publié sous licence Creative Commons BY
+
+Retrouvez plusieurs dizaines de formats de retrospective [ici en anglais](http://plans-for-retrospectives.com) et [ici en français](http://plans-for-retrospectives.com/index_fr.html?id=40-40-40-17-23-34-40-40-40)
+
+## Présentation d'une procédure
 
 ### 1. Ouvrir la retrospective
 
