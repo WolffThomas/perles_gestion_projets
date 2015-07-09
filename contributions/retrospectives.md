@@ -4,7 +4,7 @@
 
 ## En une phrase
 
-Une retrospective est un temps collectif et intensif d'équipe où les participants vont pouvoir s'exprimer sur ce qui s'est passé sur une précédente période et collectivement décider des prochaines actions.
+Une retrospective est un temps collectif et intensif d'équipe où les participants vont pouvoir debriefer sur ce qui s'est passé sur une précédente période et collectivement décider des prochaines actions. 
 
 ## A quoi ça sert? 
 
