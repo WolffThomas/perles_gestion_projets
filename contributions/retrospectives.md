@@ -18,7 +18,7 @@ Une retrospective est un temps collectif et intensif d'équipe où les participa
 
 Image par [Fabrice Aimetti](http://wiki.ayeba.fr/5+%C3%A9tapes+pour+rendre+efficace+votre+r%C3%A9trospective+de+sprint), publié sous licence Creative Commons BY
 
-Retrouvez plusieurs dizaines de formats de retrospective [ici en anglais](http://plans-for-retrospectives.com) et [ici en français](http://plans-for-retrospectives.com/index_fr.html?id=40-40-40-17-23-34-40-40-40)
+Retrouvez plusieurs dizaines de formats de retrospective [ici en anglais](http://plans-for-retrospectives.com) et [ici en français](http://plans-for-retrospectives.com/index_fr.html?id=22-35-10-38-15)
 
 ## Présentation d'une procédure
 
