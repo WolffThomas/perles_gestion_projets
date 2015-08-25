@@ -24,3 +24,17 @@ En exploration
 
 <iframe width="100%" height="800px" frameBorder="0" src="http://umap.openstreetmap.fr/fr/map/nomad-working-nantes_50830?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/fr/map/nomad-working-nantes_50830">Voir en plein écran</a></p>
 
+**Explicitation des catégories** (en cours de rédaction)
+
+Plutôt que d'imaginer des catégories, j'ai demandé à 8 coworkers nomades les principales problématiques liés à l'utilisation d'espaces privés (cafés, ...) ou publics (musées, ...) pour travailler. Puis je les ai converti en critères que j'ai validé avec eux. 
+
+*Pondération des réponses*
+
+* Top 1: Ambiance du lieu propre au travail (niveau sonore, espace) ou propre au coworking (grandes tables ou canapés)
+ * un accent particulier est mis sur la période 11h-14h
+* Top 2: Sur les 8 coworkers nomades, 7 utilisent leur ordinateur. La possibilité de brancher son ordinateur est le top 2.
+* Top 3: Savoir s'il y a un réseau wifi accessible, s'il faut des codes (freewifi, sfrwifion) ou apporter un routeur wifi nomade. 
+* Top 4: Horaires d'ouverture du lieu
+
+
+
