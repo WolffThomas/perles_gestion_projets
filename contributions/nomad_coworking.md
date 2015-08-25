@@ -36,5 +36,12 @@ Plutôt que d'imaginer des catégories, j'ai demandé à 8 coworkers nomades les
 * Top 3: Savoir s'il y a un réseau wifi accessible, s'il faut des codes (freewifi, sfrwifion) ou apporter un routeur wifi nomade. 
 * Top 4: Horaires d'ouverture du lieu
 
+*Pourquoi, puisque personne ne m'a rien demandé, ai-je ajouté la catégorie "Animaux admis ou non?*
+
+Parceque j'ai un chien et que j'essaye de prendre en compte les minorités (cadire moi en attendant), surtout lorsqu'elles sont impliquées. 
+
+
+
+
 
 
