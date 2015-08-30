@@ -8,12 +8,12 @@ Un Lean canvas permet de valider et de documenter un Business model en une page.
 
 * Documenter et valider un business model **[2](#note)**
 * Partager une vision projet, épurée, avec les parties prenantes du projet **[2](#note)**
-* Pour comprendre la différence avec un buisiness model, consultez [ici](https://github.com/WolffThomas/perles_gestion_projets/blob/master/contributions/Lean_vs_Business_Canvases.md)
+* Pour comprendre la différence entre un lean canvas et un business model canvas, consultez [ici](https://github.com/WolffThomas/perles_gestion_projets/blob/master/contributions/Lean_vs_Business_Canvases.md)
 
 ## Mise en oeuvre
 
 **Lean Canvas**, c'est le nom de la matrice, du tableau. Juste comme ça, c'est un papier ou un document numérique.
-**Lean startup**, c'est pour moi l'explicitation scientifique et théorique du lancement agile d'un produit. Vous y découvrirez des notions comme le *Validated Learning*. Ceci dit ça ne nous pas comment faire.
+**Lean startup**, c'est l'explicitation scientifique et théorique du lancement agile d'un produit. Vous y découvrirez des notions comme le *Validated Learning*. 
 **Running Lean**, c'est l'explication opérationnelle, concrète de l'approche *Lean startup*. Cette méthode permet de valider par séries d'itérations chacune des sections du Lean Canvas. **[2](#note)**
 
 **Vous trouverez l'ebook expliçitant l'approche [ici](http://www.enactusryerson.ca/wp-content/uploads/2014/03/RunningLean.pdf).**
@@ -28,7 +28,7 @@ Un Lean canvas permet de valider et de documenter un Business model en une page.
 
 ![Other](http://upload.wikimedia.org/wikipedia/commons/2/22/Lean_Canvas.png) **[3](#note)**
 
-## Lean canvas virtuel
+## Outil numérique permettant de partager un Lean canvas 
 
 * [LeanStack](http://leanstack.com) **[2](#note)**
 
