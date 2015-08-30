@@ -12,7 +12,9 @@ Un Lean canvas permet de valider et de documenter un Business model en une page.
 
 ## Mise en oeuvre
 
-L'approche du Running lean permet de valider par séries d'itérations chacune des sections du Lean Canvas. Par exemple, pas besoin d'indiquer quels seront vos prescripteurs/médias de communication avant d'avoir validé avec votre public cible que vous comprenez bien leurs problèmes. **[2](#note)**
+**Lean Canvas**, c'est le nom de la matrice, du tableau. Juste comme ça, c'est un papier ou un document numérique.
+**Lean startup**, c'est pour moi l'explicitation scientifique et théorique du lancement agile d'un produit. Vous y découvrirez des notions comme le *Validated Learning*. Ceci dit ça ne nous pas comment faire.
+**Running Lean**, c'est l'explication opérationnelle, concrète de l'approche *Lean startup*. Cette méthode permet de valider par séries d'itérations chacune des sections du Lean Canvas. **[2](#note)**
 
 **Vous trouverez l'ebook expliçitant l'approche [ici](http://www.enactusryerson.ca/wp-content/uploads/2014/03/RunningLean.pdf).**
 
@@ -37,10 +39,3 @@ L'approche du Running lean permet de valider par séries d'itérations chacune d
 * **1** [Fabrice Aimetti](http://wiki.ayeba.fr/Lean+Canvas), pour Wiki Ayeba, sous licence Creative Commons BY
 * **2** Thomas Wolff, sous licence Creative Commons BY-SA
 * **3** [Wikipedia](http://upload.wikimedia.org/wikipedia/commons/2/22/Lean_Canvas.png), sous licence Creative Commons BY-SA
-
-
-
-
-
-
-
