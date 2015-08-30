@@ -12,9 +12,9 @@ Un Lean canvas permet de valider et de documenter un Business model en une page.
 
 ## Mise en oeuvre
 
-**Lean Canvas**, c'est le nom de la matrice, du tableau. Juste comme ça, c'est un papier ou un document numérique.
-**Lean startup**, c'est l'explicitation scientifique et théorique du lancement agile d'un produit. Vous y découvrirez des notions comme le *Validated Learning*. 
-**Running Lean**, c'est l'explication opérationnelle, concrète de l'approche *Lean startup*. Cette méthode permet de valider par séries d'itérations chacune des sections du Lean Canvas. **[2](#note)**
+* **Lean Canvas**, c'est le nom de la matrice, du tableau. Juste comme ça, c'est un papier ou un document numérique.
+* **Lean startup**, c'est l'explicitation scientifique et théorique du lancement agile d'un produit. Vous y découvrirez des notions comme le *Validated Learning*. 
+* **Running Lean**, c'est l'explication opérationnelle, concrète de l'approche *Lean startup*. Cette méthode permet de valider par séries d'itérations chacune des sections du Lean Canvas. **[2](#note)**
 
 **Vous trouverez l'ebook expliçitant l'approche [ici](http://www.enactusryerson.ca/wp-content/uploads/2014/03/RunningLean.pdf).**
 
