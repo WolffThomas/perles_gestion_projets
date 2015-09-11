@@ -4,14 +4,14 @@ Le nomad (co)working consiste à se retrouver seul ou à plusieurs dans des espa
 
 ![Nomad](https://slack-files.com/files-tmb/T03CUD7B6-F0AG0HM5E-3854648981/slack_for_ios_upload_1024.jpg) "*Un des espaces que j'aime utiliser à Nantes: une serre du Jardin des Plantes. On peut utiliser l'electricité de la serre et avec un routeur wifi les visioconférences tropicales sont possibles.*" Thomas
 
-## Infos préalables à prendre en compte
+## Ils y travaillent
 
 * Une communauté de développeurs à propulsé [devfriendlyplaces](http://www.devfriendlyplaces.net/locations.html), un site web vous permettant de trouver dans plusieurs grandes villes un endroit wiifié / avec courant pour travailler gratuitement ou le prix d'une conso. 
 * [Stéphane Langlois](https://fr.linkedin.com/in/pointbar) aimerait travailler sur cette problématique en y répondant de manière web
-* Des copains [architectes](www.montpellier.archi.fr) aimeraient travailler sur la problématique de réappropriation des espaces publics (musées, mairies, ...) 
-* De mon côté, j'ai bien envie de la jouer non web / ou web très facile d'accés. J'ai mis en place, pour mon utilisation surtout (donc je suis mon client avec mes critères), une [cartographie des espaces où je peux travailler à Nantes]
+* Des copains [architectes](www.montpellier.archi.fr) aimeraient travailler sur la problématique de réappropriation des espaces publics (musées, mairies, ...) à Montpellier
+* De mon côté, j'ai mis en place pour mon utilisation (donc je suis mon client avec mes critères), une cartographie des espaces où je peux travailler à Nantes
 
-<iframe width="100%" height="300px" frameBorder="0" src="http://umap.openstreetmap.fr/fr/map/nomad-co-working-nantes_50830?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/fr/map/nomad-co-working-nantes_50830">Voir en plein écran</a></p>
+<iframe width="100%" height="400px" frameBorder="0" src="http://umap.openstreetmap.fr/fr/map/nomad-co-working-nantes_50830?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/fr/map/nomad-co-working-nantes_50830">Voir en plein écran</a></p>
 
 ## Première étape: comprendre le public / choisir un public cible
 
