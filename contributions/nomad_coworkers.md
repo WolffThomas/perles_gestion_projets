@@ -2,7 +2,8 @@
 
 Le nomad (co)working consiste à se retrouver seul ou à plusieurs dans des espaces publics pour y travailler. Vous trouverez ici un feed-back sur l'expérience nomad (co)workers mis en place à Nantes. 
 
-> J'ai commencé à sentir la puissance de cette pratique en travaillant avec *[Stéphane Langlois](https://fr.linkedin.com/in/pointbar)* sur la terrasse d'un café-tennis à Montpellier, endroit non initialement prévu à cet effet. Depuis, je les remarque de plus en plus, ces travailleurs/euses qui utilisent les cafés et les espaces publics pour travailler. Loin de tous travailler sur leur ordinateur, ils sont aussi étudiants, profs, photographes, commerciaux et même ... grands mères qui y classent leurs documents de banque. J'observe régulièrement des groupes (coworking), principalement des étudiants ou des commerciaux.
+![Nomad](https://slack-files.com/files-tmb/T03CUD7B6-F0AG0HM5E-3854648981/slack_for_ios_upload_1024.jpg)
+Un des espaces que j'aime utiliser à Nantes - Jardin des Plantes. 
 
 ## Infos préalables à prendre en compte
 
