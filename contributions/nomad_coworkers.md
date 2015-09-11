@@ -1,58 +1,35 @@
-# Retour d'expérience nomad (co)workers
+# Expérience nomad (co)workers
 
-> Le nomad (co)working consiste à se retrouver seul ou à plusieurs (coworking) dans des espaces publics pour y travailler. J'ai commencé à sentir la montée de cette pratique en travaillant avec *[Stéphane Langlois](https://fr.linkedin.com/in/pointbar)* sur la terrasse d'un café - tennis à Montpellier. La plateforme web [devfriendlyplaces](http://www.devfriendlyplaces.net/locations.html) m'a été utile; cette dernière permet aux developpeurs de trouver des localisations où travailler (wifi+electricité) gratuitement ou pour le prix d'une conso. Le temps passe, je rencontre de plus en plus de monde dans les cafés. 
+Le nomad (co)working consiste à se retrouver seul ou à plusieurs dans des espaces publics pour y travailler. Vous trouverez ici un feed-back sur l'expérience nomad (co)workers mis en place à Nantes. 
 
+> J'ai commencé à sentir la puissance de cette pratique en travaillant avec *[Stéphane Langlois](https://fr.linkedin.com/in/pointbar)* sur la terrasse d'un café-tennis à Montpellier, endroit non initialement prévu à cet effet. Depuis, je les remarque de plus en plus, ces travailleurs/euses qui utilisent les cafés et les espaces publics pour travailler. Loin de tous travailler sur leur ordinateur, ils sont aussi étudiants, profs, photographes, commerciaux et même ... grands mères qui y classent leurs documents de banque. J'observe régulièrement des groupes (coworking), principalement des étudiants ou des commerciaux.
 
+## Infos préalables à prendre en compte
 
+* Une communauté de développeurs à propulsé [devfriendlyplaces](http://www.devfriendlyplaces.net/locations.html), un site web vous permettant de trouver dans plusieurs grandes villes un endroit wiifié / avec courant pour travailler gratuitement ou le prix d'une conso. 
+* [Stéphane Langlois](https://fr.linkedin.com/in/pointbar) aimerait travailler sur cette problématique en y répondant de manière web
+* Des copains [architectes](www.montpellier.archi.fr) aimeraient travailler sur la problématique de réappropriation des espaces publics (musées, mairies, ...) 
+* De mon côté, j'ai bien envie de la jouer non web / ou web très facile d'accés. J'ai mis en place, pour mon utilisation surtout (donc je suis mon client avec mes critères), une [cartographie des espaces où je peux travailler à Nantes](http://umap.openstreetmap.fr/fr/map/nomad-co-working-nantes_50830#15/47.2143/-1.5544).
 
+## Etude des usages
 
-Le nomad (co)working consiste à se retrouver seul ou à plusieurs (coworking) dans des espaces privés ou publics pour travailler. 
+**Territoire d'étude**: cafés/musées/jardins des villes de *Nantes*, *Montpellier*, *Bordeaux* 
+**Méthodo**: taper la discut' avec celles et ceux rencontrés qui semblent travailler. Comprendre leurs usages et problématiques. (Note méthodologique: plus précisement, la démarche d'interview mise en place est une démarche [Running Lean](http://www.multibao.org/wolffthomas/perles_gestion_projets/contributions/Lean_canvas.md), une application concrête de la philosophie Lean Startup)
 
-## Démos
+### Public interviewé
 
-Serres amazoniennes dans jardins botaniques, espaces culturels des villes, musées, cafés privés, nombreux sont les espaces qui peuvent faire l'affaire.
-
-![Exemple de coworking](https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11378581_949579518418053_481210022_n.jpg)
-*Une session de travail du COPIL des rencontres [Moustic](http://moustic.info), à la Médiathèque Emile Zola à Montpellier*
-
-##A quoi ça sert? 
-
-**A quoi ça sert le travail nomade**
-
-* c'est gratuit ou peu cher: une alternative pour les porteurs de projets ou les équipes ayant peu de ressources et ne souhaitant pas travailler chez eux
-* ça vous permet vraiment de changer d'air (ex: pour des formations/séminaires, sortir du cadre en équipe, télétravail ailleurs qu'à son bureau)
-* ça peut vous permettre de donner un *signal fort*, notamment en vous réappropriant des espaces communs peu ou pas utilisés (salles vides dans des musées, soutenir des petits cafés soutenant des produits locaux, ...) 
-
-**A quoi ça sert le coworking nomade par rapport au coworking tout court?**
-
-En exploration
-
-##Première étape: trouver et référencer des espaces potentiels de travail
-
-* [Devriendlyplaces](http://www.devfriendlyplaces.net/locations.html) vous propose de trouver un endroit pour coder **dans une trentaine de villes**.
-
-* De mon côté, je lance l'expérience à Nantes en utilisant la technologie d'[Umap](http://umap.openstreetmap.fr) pour son ergonomie et sa facilité de contribution. Je migrerai sûrement plus tard vers Github. 
-
-**Référencement d'espaces de co-working nomade à Nantes (débuté septembre 2015)**
-
-<iframe width="100%" height="800px" frameBorder="0" src="http://umap.openstreetmap.fr/fr/map/nomad-working-nantes_50830?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/fr/map/nomad-working-nantes_50830">Voir en plein écran</a></p>
-
-**Explicitation des catégories** (en cours de rédaction)
-
-Plutôt que d'imaginer des catégories, j'ai demandé à 8 coworkers nomades les principales problématiques liés à l'utilisation d'espaces privés (cafés, ...) ou publics (musées, ...) pour travailler. Puis je les ai converti en critères que j'ai validé avec eux. 
-
-*Pondération des réponses*
-
-* Top 1: Ambiance du lieu propre au travail (niveau sonore, espace) ou propre au coworking (grandes tables ou canapés)
- * un accent particulier est mis sur la période 11h-14h
-* Top 2: Sur les 8 coworkers nomades, 7 utilisent leur ordinateur. La possibilité de brancher son ordinateur est le top 2.
-* Top 3: Savoir s'il y a un réseau wifi accessible, s'il faut des codes (freewifi, sfrwifion) ou apporter un routeur wifi nomade. 
-* Top 4: Horaires d'ouverture du lieu
-
-*Pourquoi, puisque personne ne m'a rien demandé, ai-je ajouté la catégorie "Animaux admis ou non?*
-
-Parceque j'ai un chien et que j'essaye de prendre en compte les minorités (cadire moi en attendant), surtout lorsqu'elles sont impliquées. 
-
+* Etudiants - 14 interviewés, tous à l'univ ou en écoles d'ing. 
+* Commerciaux - 8 interviewés
+* Sans emploi - 5 interviewés
+* Photographes - 2 interviewés
+* Enseignants - 2 interviewés
+* Journalistes - 1 interviewé
+* Développeurs web - 2 interviewés
+* Salariés TPE & PME - 6 interviewés
+* Fonctionnaire - 1 interviewé
+* Autres
+ * Propriétaire du café y travaillant - 2 interviewés
+ * Pas intéressé pour discuter: 9 
 
 
 
