@@ -15,7 +15,7 @@ Le nomad (co)working consiste à se retrouver seul ou à plusieurs dans des espa
 
 ## Bon, tu tentes quoi ?
 
-## Déjà, avant de chercher une solution, étudier le public, ses usages et comprendre ses problématiques
+### Déjà, avant de chercher une solution, étudier le public, ses usages et comprendre ses problématiques. Peut-être qu'il n'y a même rien à faire. A explorer...
 
 **Territoire d'étude**: cafés/musées/jardins des villes de *Nantes*, *Montpellier*, *Bordeaux* 
 **Méthodo**: taper la discut' avec celles et ceux rencontrés qui semblent travailler. Comprendre leurs usages et problématiques. (Note méthodologique: plus précisement, la démarche d'interview mise en place est une démarche [Running Lean](http://www.multibao.org/wolffthomas/perles_gestion_projets/contributions/Lean_canvas.md), une application concrête de la philosophie Lean Startup)
