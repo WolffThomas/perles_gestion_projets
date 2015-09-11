@@ -13,12 +13,21 @@ Le nomad (co)working consiste à se retrouver seul ou à plusieurs dans des espa
 
 <iframe width="100%" height="300px" frameBorder="0" src="http://umap.openstreetmap.fr/fr/map/nomad-co-working-nantes_50830?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/fr/map/nomad-co-working-nantes_50830">Voir en plein écran</a></p>
 
-## Première étape: comprendre le public
+## Première étape: comprendre le public / choisir un public cible
 
 **Territoire d'étude**: cafés/musées/jardins des villes de *Nantes*, *Montpellier*, *Bordeaux* 
 **Méthodo**: taper la discut' avec celles et ceux rencontrés qui semblent travailler. Comprendre leurs usages et problématiques. (Note méthodologique: plus précisement, la démarche d'interview mise en place est une démarche [Running Lean](http://www.multibao.org/wolffthomas/perles_gestion_projets/contributions/Lean_canvas.md), une application concrête de la philosophie Lean Startup)
 
-> Etudiants - 14 interviewés, tous à l'univ ou en écoles d'ing. / Commerciaux - 8 interviewés / Sans emploi - 5 interviewés / Photographes - 2 interviewés / Enseignants - 2 interviewés / Journalistes - 1 interviewé / Développeurs web - 2 interviewés / Salariés TPE & PME - 2 interviewés / Fonctionnaire - 1 interviewé / Autres: Propriétaire du café y travaillant - 2 interviewés + Pas intéressé pour discuter: 9
+En date du 10 septembre 2015.
+
+> Etudiants - 14 interviewés, tous à l'univ ou en écoles d'ing. / Commerciaux - 4 interviewés / Sans emploi - 3 interviewés / Photographes - 2 interviewés / Enseignants - 2 interviewés / Journalistes - 1 interviewé / Développeurs web - 2 interviewés / Salariés TPE & PME - 2 interviewés / Fonctionnaire - 1 interviewé / Autres: Propriétaire du café y travaillant - 2 interviewés + Touristes - 5 interviewés - Pas intéressé pour discuter: 9
+
+### Public cible choisi 0.3
+
+* Territoire: Nantes, quartiers Centre et Île de Nantes
+* Public cible: individus seuls, habitant la ville de Nantes ou ses environs, utilisant au moins 2 fois par semaine à la demi-journée des cafés pour travailler. Profil: étudiants [L1;Master], commerciaux, professions libérales.
+
+
 
 
 
