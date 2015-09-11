@@ -1,6 +1,10 @@
-# Favoriser le nomad (co)working
+# Retour d'expérience nomad (co)workers
 
-##En une phrase
+> Le nomad (co)working consiste à se retrouver seul ou à plusieurs (coworking) dans des espaces publics pour y travailler. J'ai commencé à sentir la montée de cette pratique en travaillant avec *[Stéphane Langlois](https://fr.linkedin.com/in/pointbar)* sur la terrasse d'un café - tennis à Montpellier. La plateforme web [devfriendlyplaces](http://www.devfriendlyplaces.net/locations.html) m'a été utile; cette dernière permet aux developpeurs de trouver des localisations où travailler (wifi+electricité) gratuitement ou pour le prix d'une conso. Le temps passe, je rencontre de plus en plus de monde dans les cafés. 
+
+
+
+
 
 Le nomad (co)working consiste à se retrouver seul ou à plusieurs (coworking) dans des espaces privés ou publics pour travailler. 
 
@@ -9,7 +13,7 @@ Le nomad (co)working consiste à se retrouver seul ou à plusieurs (coworking) d
 Serres amazoniennes dans jardins botaniques, espaces culturels des villes, musées, cafés privés, nombreux sont les espaces qui peuvent faire l'affaire.
 
 ![Exemple de coworking](https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11378581_949579518418053_481210022_n.jpg)
-*Une session de travail du COPIL des rencontres [Moustic](http://moustic.info], à la Médiathèque Emile Zola à Montpellier*
+*Une session de travail du COPIL des rencontres [Moustic](http://moustic.info), à la Médiathèque Emile Zola à Montpellier*
 
 ##A quoi ça sert? 
 
