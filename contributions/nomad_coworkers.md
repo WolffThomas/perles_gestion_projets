@@ -2,8 +2,7 @@
 
 Le nomad (co)working consiste à se retrouver seul ou à plusieurs dans des espaces publics pour y travailler. Vous trouverez ici un feed-back sur l'expérience nomad (co)workers mis en place à Nantes. 
 
-![Nomad](https://slack-files.com/files-tmb/T03CUD7B6-F0AG0HM5E-3854648981/slack_for_ios_upload_1024.jpg)
-Un des espaces que j'aime utiliser à Nantes - Jardin des Plantes. 
+![Nomad](https://slack-files.com/files-tmb/T03CUD7B6-F0AG0HM5E-3854648981/slack_for_ios_upload_1024.jpg) "*Un des espaces que j'aime utiliser à Nantes: une serre du Jardin des Plantes. On peut utiliser l'electricité de la serre et avec un routeur wifi les visioconférences tropicales sont possibles.*" Thomas
 
 ## Infos préalables à prendre en compte
 
