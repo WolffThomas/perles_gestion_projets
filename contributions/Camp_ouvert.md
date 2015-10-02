@@ -1,7 +1,6 @@
 # Camp ouvert de l'île d'Yeu 
 
-Week-end du 23 octobre 2015
-Débute vendredi 23 au soir, termine dimanche 25 avec le dernier bateau (17h)
+> Débute vendredi 23 au soir, termine dimanche 25 avec le dernier bateau (17h)
 
 ![île d'Yeu](http://www.vendee-tourisme.com/media/iledyeu4__005704200_1545_27052015.jpg) 
 
