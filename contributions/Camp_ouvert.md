@@ -15,6 +15,8 @@ Ca débute le vendredi 23 octobre 2015 au soir, et ça termine avec le dernier r
 
 ## Principes proposés pour le camp
 
+![filtre](http://media1.coffee-webstore.com/themes/cupandco_v3/img/scat/filtre-cafetiere.jpg)
+
 Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Toulouse), [Lilian Ricaud](www.lilianricaud.com) (31-32) et   [Thomas Wolff](http://twitter.com/thom_wolff) (34-44) lors d'une baignade-storming dans les gorges de l'Hérault. 
 
 * **Ca commence quand ça commence, ça finit quand ça finit**
