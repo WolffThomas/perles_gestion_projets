@@ -1,15 +1,16 @@
 # Camp ouvert de l'île d'Yeu 
 
-Ca débute le vendredi 23 octobre 2015 au soir, et ça termine avec le dernier retour de bateau (17h) le dimanche. C'est gratuit, ouvert. Ce n'est ni un coworking, ni des journées de rencontres entre réseaux citoyens. C'est comme une rencontre de copains qui partagent des vocations et qui invitent d'autres copains. Et que des inconnus peuvent venir. C'est sur une île. 
+Ca débute le vendredi 23 octobre 2015 au soir, et ça termine avec le dernier retour de bateau (17h) le dimanche. C'est gratuit, ouvert. Ce n'est ni un coworking, ni des journées de rencontres entre réseaux citoyens. C'est comme une rencontre de copains qui partagent des vocations et qui invitent d'autres copains. Et que où des inconnus sont bienvenus. C'est sur une île. 
 
 > "Dis Thomas, ça te dis qu'on se fasse un week-end? J'ai plein de trucs à te raconter" (Alyssa Daoud, directrice CREPAQ Aquitaine). "ça te botte sur une île? Genre on en discute en se promenant sur les falaises et on se fait une belle vie?" "A fond" / "ça te dis une session avec @Clement_Epie? On viendrait travailler sur @cellabz" (@NicolasLoubet) "sur l'île d'Yeu ?" "oui :)" 
 
 ![île d'Yeu](http://www.vendee-tourisme.com/media/iledyeu4__005704200_1545_27052015.jpg) 
 
-**Milieux** île de 7x4 km, tour à pied possible en un jour, possibilité location vélos, criques, falaises, plages de sable, petits villages, zen.
-**Localisation** au large des côte Vendéennes, 1h30 bus de Nantes + bateau 30 mn AR 30/40€
-**Organisation** minimaliste (voir principes)
-**Inscriptions** par [ici](https://mensuel.framapad.org/p/camp_ouvert_ile_yeu)
+**Tour d'horizon** une île de 7x4km au large des côtes Vendéennes, une partie avec des plages de sable blanc, l'autre avec des falaises et des criques. Tu peux faire le tour à pied en un jour, ou louer un vélo. 
+**Comment on vient?** bateau (AR 40€ max, 30mn) à Fromentine (à côté de Noirmoutier). En voiture, en covoiturage (voir pad pour offres), en bus (1h30 depuis Nantes, 1h depuis La Roche sur Yon). 
+**Organisation?** minimaliste
+**Hébergement?** je propose la location de chalets / mobil homes sur le camping municipal de l'île d'Yeu, qui donne sur la plage de Ker Chalon. 30€/nuit. Voir principes.
+**Inscription?** prendre connaissance des principes proposés et s'inscrire par [ici](https://mensuel.framapad.org/p/camp_ouvert_ile_yeu)
 
 ## Principes
 
