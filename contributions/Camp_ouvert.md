@@ -13,7 +13,7 @@ Rencontres informelles d'individus et de réseaux dans un cadre magnifique.
 
 ## Principes
 
-Ces principes ont été définis par [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Toulouse), [Lilian Ricaud](www.lilianricaud.com) (31-32) et   [Thomas Wolff](http://twitter.com/thom_wolff) (34-44) lors d'un baignade-storming dans les gorges de l'Hérault. Comment se retrouver entre personnes qui nous parlent, dans un cadre magnifique, sans que ça nous prêne la tête pour l'organiser. 
+> Ces principes ont été définis par [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Toulouse), [Lilian Ricaud](www.lilianricaud.com) (31-32) et   [Thomas Wolff](http://twitter.com/thom_wolff) (34-44) lors d'un baignade-storming dans les gorges de l'Hérault. 
 
 * **Ca commence quand ça commence, ça finit quand ça finit**
 
