@@ -1,4 +1,4 @@
-# Camp ouvert de l'île d'Yeu 
+# Camp ouvert de l'île d'Yeu - Week-end du 23 octobre 2015
 
 Ca débute le vendredi 23 octobre 2015 au soir, et ça termine avec le dernier retour de bateau (17h) le dimanche. C'est gratuit, ouvert. Ce n'est ni un coworking, ni un accélérateur de projets, ni des journées de rencontres entre réseaux citoyens. C'est comme une rencontre de copains qui partagent des vocations et qui invitent d'autres personnes. C'est sur une île. 
 
@@ -42,3 +42,5 @@ Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Tou
 * **Pas de comité de pilotage**
 
 > Organisation, réservation du lieu, organisation du covoiturage à l'initiative des participants.
+
+## Informations minimalistes pour l'organisation 
