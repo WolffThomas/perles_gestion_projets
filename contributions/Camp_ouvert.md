@@ -1,21 +1,29 @@
-#Camp ouvert
+# Camp ouvert de l'île d'Yeu 
 
-Cette procédure a vocation à organiser un coworking de 6 jours, inter-réseaux, dans un chalet de montagne.
+Week-end du 23 octobre 2015
+Débute vendredi 23 au soir, termine dimanche 25 avec le dernier bateau (17h)
 
-![Coworking](https://framapic.org/mRGQLlVRhPmi/kZ1XEWca)
+![île d'Yeu](http://www.vendee-tourisme.com/media/iledyeu4__005704200_1545_27052015.jpg) 
 
-## A quoi ça sert?
 
-* apprendre à se connaître
-* favoriser des synergies entre réseaux
-* passer un moment convivial
-* avancer sur nos projets
+
+
+
+
+
+
+
+Participants: celles et ceux qui se reconnaissent dans les principes ci dessous
+Organisation: minismaliste
+Histoire: déterminé lors d'une réunion-baignade inter-réseaux en Hérault en août dernier
+Prix: non spécifié. Vous vous débrouillez. On propose de partager des chalets sur le camping municipal de l'île d'Yeu, en face d'une magnifique plage. Environ 30€ par nuit.
+S'inscrire : expliqué çi dessous
 
 ## Principes
 
 * **Ca commence quand ça commence, ça finit quand ça finit**
 
-> On connaît le jour et l'heure de début annoncé de l'évènement, ainsi que ça la fin. Ca commence quand vous arrivez, ça finit quand vous repartez. C'est prévu pour 6 jours, vous pourrez juste rester 2 jours.
+> On connaît le jour et l'heure de début annoncé de l'évènement, ainsi que ça la fin. Ca commence quand vous arrivez, ça finit quand vous repartez. 
 
 * **La qualité, pas la quantité**
 
