@@ -19,7 +19,7 @@ Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Tou
 
 * **Ca commence quand ça commence, ça finit quand ça finit**
 
-> On connaît le jour et l'heure de début annoncé de l'évènement, ainsi que ça la fin. Ca commence quand vous arrivez, ça finit quand vous repartez. 
+> On connaît le jour et l'heure de début annoncé de l'évènement, ainsi que sa fin. Ca commence quand vous arrivez, ça finit quand vous repartez. 
 
 * **La qualité, pas la quantité**
 
@@ -40,4 +40,3 @@ Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Tou
 * **Pas de comité de pilotage**
 
 > Organisation, réservation du lieu, organisation du covoiturage à l'initiative des participants.
-
