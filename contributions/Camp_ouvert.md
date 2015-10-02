@@ -10,12 +10,12 @@ Ca débute le vendredi 23 octobre 2015 au soir, et ça termine avec le dernier r
 * **Comment on vient?** bateau (AR 40€ max, 30mn, [réserver en avance](www.ile-yeu.fr/Acces/Traversees-maritimes
 )) à Fromentine (à côté de Noirmoutier). En voiture, en covoiturage (voir pad), en bus (1h30 depuis Nantes, 1h depuis La Roche sur Yon). 
 * **Organisation?** minimaliste. Voir principes ;).
-* **Hébergement?** je propose la location de chalets / mobil homes sur le camping municipal de l'île d'Yeu, qui donne sur la plage de Ker Chalon. A deux pas de la petite ville de l'île. 30€/nuit. Voir principes ;).
+* **Hébergement?** je connais de nombreux plans allant du [camping municipal face à la plage de Ker Chalon](http://www.ile-yeu.fr/Hebergement/Camping) à des maisons à l'intérieur des terres qui nous reviendront à environ 30€/personne/jour. Saison touristique morte, bons plans. Voir pad.
 * **Inscription?** prendre connaissance des principes proposés et s'inscrire par [ici](https://mensuel.framapad.org/p/camp_ouvert_ile_yeu)
 
 ## Principes proposés pour le camp
 
-Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Toulouse), [Lilian Ricaud](www.lilianricaud.com) (31-32) et   [Thomas Wolff](http://twitter.com/thom_wolff) (34-44) lors d'un baignade-storming dans les gorges de l'Hérault. 
+Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Toulouse), [Lilian Ricaud](www.lilianricaud.com) (31-32) et   [Thomas Wolff](http://twitter.com/thom_wolff) (34-44) lors d'une baignade-storming dans les gorges de l'Hérault. 
 
 * **Ca commence quand ça commence, ça finit quand ça finit**
 
