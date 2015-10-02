@@ -1,8 +1,10 @@
 # Camp ouvert de l'île d'Yeu 
 
-Rencontres informelles d'individus et de réseaux dans un cadre magnifique. 
+Un week-end de rencontres informelles d'individus et de réseaux citoyens. 
 
-> "Dis Thomas, ça te dis qu'on se fasse un week-end? J'ai plein de trucs à te raconter" (Alyssa Daoud, directrice CREPAQ Aquitaine). "ça te botte sur une île? Genre on en discute en se promenant sur les falaises et on se fait une belle vie?" "A fond" / "ça te dis une session avec @Clement_Epie? On viendrait travailler sur @cellabz" (@NicolasLoubet) "sur l'île d'Yeu ?" "oui :)"
+Ca débute le vendredi 23 octobre 2015 au soir, et ça termine avec le dernier retour de bateau (17h) le dimanche. C'est gratuit et sur une île. Vous pouvez même venir avec votre famille! 
+
+> "Dis Thomas, ça te dis qu'on se fasse un week-end? J'ai plein de trucs à te raconter" (Alyssa Daoud, directrice CREPAQ Aquitaine). "ça te botte sur une île? Genre on en discute en se promenant sur les falaises et on se fait une belle vie?" "A fond" / "ça te dis une session avec @Clement_Epie? On viendrait travailler sur @cellabz" (@NicolasLoubet) "sur l'île d'Yeu ?" "oui :)" / "C'est quand ta prochaine session au vert?" (Anne Robinet) "Ici !"
 
 ![île d'Yeu](http://www.vendee-tourisme.com/media/iledyeu4__005704200_1545_27052015.jpg) 
 
