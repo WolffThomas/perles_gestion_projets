@@ -1,25 +1,15 @@
 # Camp ouvert de l'île d'Yeu 
 
-Débute vendredi 23 au soir, termine dimanche 25 avec le dernier bateau (17h)
+Rencontres informelles d'individus et de réseaux dans un cadre magnifique. 
+
+> "Dis Thomas, ça te dis qu'on se fasse un week-end? J'ai plein de trucs à te raconter" (Alyssa Daoud, directrice CREPAQ Aquitaine). "ça te botte sur une île? Genre on en discute en se promenant sur les falaises et on se fait une belle vie?" "A fond" / "ça te dis une session avec @Clement_Epie? On viendrait travailler sur @cellabz" (@NicolasLoubet) "sur l'île d'Yeu ?" "oui :)"
 
 ![île d'Yeu](http://www.vendee-tourisme.com/media/iledyeu4__005704200_1545_27052015.jpg) 
 
-Milieu: île de 7x4 km, criques, falaises, plages de sable, petits villages, zen.
-Localisation: au large des côte Vendéennes, 1h30 bus de Nantes + bateau 30 mn AR 30/40€.
-
-
-
-
-
-
-
-
-
-Participants: celles et ceux qui se reconnaissent dans les principes ci dessous
-Organisation: minismaliste
-Histoire: déterminé lors d'une réunion-baignade inter-réseaux en Hérault en août dernier
-Prix: non spécifié. Vous vous débrouillez. On propose de partager des chalets sur le camping municipal de l'île d'Yeu, en face d'une magnifique plage. Environ 30€ par nuit.
-S'inscrire : expliqué çi dessous
+**Milieux** île de 7x4 km, tour à pied possible en un jour, possibilité location vélos, criques, falaises, plages de sable, petits villages, zen.
+**Localisation** au large des côte Vendéennes, 1h30 bus de Nantes + bateau 30 mn AR 30/40€
+**Organisation** minimaliste (voir principes)
+**Inscriptions** par [ici](https://mensuel.framapad.org/p/camp_ouvert_ile_yeu)
 
 ## Principes
 
@@ -47,6 +37,3 @@ S'inscrire : expliqué çi dessous
 
 > Organisation, réservation du lieu, organisation du covoiturage à l'initiative des participants.
 
-## Etat d'avancement
-
-A mettre en oeuvre pour septembre 2015.
