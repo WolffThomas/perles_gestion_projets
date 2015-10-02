@@ -9,13 +9,13 @@ Ca débute le vendredi 23 octobre 2015 au soir, et ça termine avec le dernier r
 * **Un coup d'oeil?** une île de 7x4km au large des côtes Vendéennes, une partie avec des plages de sable blanc, l'autre avec des falaises et des criques. Tu peux faire le tour à pied en un jour, ou louer un vélo. [Ici des photos!](https://www.google.fr/search?q=bateau+ile+d%27yeu&biw=1366&bih=591&source=lnms&tbm=isch&sa=X&sqi=2&ved=0CAgQ_AUoA2oVChMI342pqdukyAIVC-caCh2GLgEy#tbm=isch&q=ile+d%27yeu)
 * **Comment on vient?** bateau (AR 40€ max, 30mn, [réserver en avance](www.ile-yeu.fr/Acces/Traversees-maritimes
 )) à Fromentine (à côté de Noirmoutier). En voiture, en covoiturage (voir pad), en bus (1h30 depuis Nantes, 1h depuis La Roche sur Yon). 
-* **Organisation?** minimaliste
+* **Organisation?** minimaliste. Voir principes ;).
 * **Hébergement?** je propose la location de chalets / mobil homes sur le camping municipal de l'île d'Yeu, qui donne sur la plage de Ker Chalon. A deux pas de la petite ville de l'île. 30€/nuit. Voir principes ;).
 * **Inscription?** prendre connaissance des principes proposés et s'inscrire par [ici](https://mensuel.framapad.org/p/camp_ouvert_ile_yeu)
 
-## Principes proposés
+## Principes proposés pour le camp
 
-> Ces principes ont été définis par [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Toulouse), [Lilian Ricaud](www.lilianricaud.com) (31-32) et   [Thomas Wolff](http://twitter.com/thom_wolff) (34-44) lors d'un baignade-storming dans les gorges de l'Hérault. Notre idée était de formaliser quelques principes pour "filter" les participants d'un camp comme celui çi - et ceci de la manière suivante. Voici les principes proposés pour le camp : 
+Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Toulouse), [Lilian Ricaud](www.lilianricaud.com) (31-32) et   [Thomas Wolff](http://twitter.com/thom_wolff) (34-44) lors d'un baignade-storming dans les gorges de l'Hérault. 
 
 * **Ca commence quand ça commence, ça finit quand ça finit**
 
@@ -31,11 +31,11 @@ Ca débute le vendredi 23 octobre 2015 au soir, et ça termine avec le dernier r
 
 * **Privilégier, favoriser, enrichir les biens communs**
 
-> Bénéficier des ressources collectives (le lieu, repas, les ressources numériques, les compétences,...) et les enrichir. 
+> Bénéficier des ressources collectives (l'ambiance, le lieu, les repas, les ressources, les compétences,...) et les enrichir. 
 
 * **Si une situation ne convient pas, construire une alternative**
 
-> Le format de l'évènement est ouvert. Si dormir dans un dortoir ne convient pas, trouver un gîte non loin du lieu. 
+> Le format de l'évènement est ouvert. Si dormir dans un dortoir ne convient par exemple pas, trouver un gîte non loin du lieu. 
 
 * **Pas de comité de pilotage**
 
