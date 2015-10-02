@@ -6,12 +6,12 @@ Ca débute le vendredi 23 octobre 2015 au soir, et ça termine avec le dernier r
 
 ![île d'Yeu](http://www.vendee-tourisme.com/media/iledyeu4__005704200_1545_27052015.jpg) 
 
-**Tour d'horizon** une île de 7x4km au large des côtes Vendéennes, une partie avec des plages de sable blanc, l'autre avec des falaises et des criques. Tu peux faire le tour à pied en un jour, ou louer un vélo. 
-**Comment on vient?** bateau (AR 40€ max, 30mn, [réserver en avance](www.ile-yeu.fr/Acces/Traversees-maritimes
+* **Coup d'oeil** une île de 7x4km au large des côtes Vendéennes, une partie avec des plages de sable blanc, l'autre avec des falaises et des criques. Tu peux faire le tour à pied en un jour, ou louer un vélo. 
+* **Comment on vient?** bateau (AR 40€ max, 30mn, [réserver en avance](www.ile-yeu.fr/Acces/Traversees-maritimes
 )) à Fromentine (à côté de Noirmoutier). En voiture, en covoiturage (voir pad), en bus (1h30 depuis Nantes, 1h depuis La Roche sur Yon). 
-**Organisation?** minimaliste
-**Hébergement?** je propose la location de chalets / mobil homes sur le camping municipal de l'île d'Yeu, qui donne sur la plage de Ker Chalon. 30€/nuit. Voir principes ;).
-**Inscription?** prendre connaissance des principes proposés et s'inscrire par [ici](https://mensuel.framapad.org/p/camp_ouvert_ile_yeu)
+* **Organisation?** minimaliste
+* **Hébergement?** je propose la location de chalets / mobil homes sur le camping municipal de l'île d'Yeu, qui donne sur la plage de Ker Chalon. 30€/nuit. Voir principes ;).
+* **Inscription?** prendre connaissance des principes proposés et s'inscrire par [ici](https://mensuel.framapad.org/p/camp_ouvert_ile_yeu)
 
 ## Principes proposés
 
