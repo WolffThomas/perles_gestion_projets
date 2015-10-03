@@ -49,7 +49,7 @@ Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Tou
 
 * Pour la [traversée en bateau](http://www.ile-yeu.fr/Acces/Traversees-maritimes) depuis Fromentine, il est préférable de réserver en ligne au moins 4 jours avant le jour d'arrivée. Compter 36€ l'aller-retour. 
 
-* Pour la réservation de nuit au camping ou dans un gîte, il est possible de retarder la décision le plus tard possible du fait qu'on trouve assez facilement un hébergement fin octobre ... mais pas toujours au prix qu'on veut. Le groupe formé mi-octobre réservera sûrement un ou des chalets. 
+* Pour la réservation de nuit au camping ou dans un gîte, il est possible de retarder la décision le plus tard possible du fait qu'on trouve assez facilement un hébergement fin octobre ... 
 
 * Toutes les autres informations sont indiquées dans le [pad](https://mensuel.framapad.org/p/camp_ouvert_ile_yeu). 
 
