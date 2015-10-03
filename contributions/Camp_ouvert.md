@@ -1,6 +1,6 @@
 # Camp ouvert de l'île d'Yeu - Week-end du 23 octobre 2015
 
-> Un format de coworking insolite qui débute le vendredi 23 octobre 2015 au soir et termine avec le dernier retour de bateau (17h) le dimanche 25. Permet à des individus en réseaux de se retrouver et de prendre le temps d'échanger, le tout dans un cadre magnifique. C'est gratuit, ouvert. 
+> Un format de coworking insolite qui débute le vendredi 23 octobre 2015 au soir et termine avec le dernier retour de bateau (17h) le dimanche 25. Permet à des individus de se retrouver et de prendre le temps d'échanger, le tout dans un cadre magnifique. C'est gratuit, ouvert. 
 
 ![île d'Yeu](http://www.vendee-tourisme.com/media/iledyeu4__005704200_1545_27052015.jpg) 
 
