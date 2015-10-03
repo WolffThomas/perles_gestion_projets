@@ -55,5 +55,7 @@ Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Tou
 
 * Toutes les autres informations sont indiquées dans le [pad](https://mensuel.framapad.org/p/camp_ouvert_ile_yeu). 
 
+![Yo](http://farm6.staticflickr.com/5209/5369646057_466f889213_z.jpg)
+
 
 
