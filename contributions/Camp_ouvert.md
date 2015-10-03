@@ -2,8 +2,6 @@
 
 > Un format de coworking insolite qui débute le vendredi 23 octobre 2015 au soir et termine avec le dernier retour de bateau (17h) le dimanche. Permet à des individus qui n'ont pas spécialement le temps de se voir de se retrouver dans un cadre magnifique. C'est gratuit, ouvert. 
 
-> "Dis Thomas, ça te dis qu'on se fasse un week-end? J'ai plein de trucs à te raconter" (Alyssa Daoud, directrice CREPAQ Aquitaine). "ça te botte sur une île? Genre on en discute en se promenant sur les falaises et on se fait une belle vie?" "A fond" / "ça te dis une session avec @Clement_Epie? On viendrait travailler sur @cellabz" (@NicolasLoubet) "sur l'île d'Yeu ?" "oui :)" 
-
 ![île d'Yeu](http://www.vendee-tourisme.com/media/iledyeu4__005704200_1545_27052015.jpg) 
 
 * **Un coup d'oeil?** une île de 7x4km au large des côtes Vendéennes, une partie avec des plages de sable blanc, l'autre avec des falaises et des criques. Tu peux faire le tour à pied en un jour, ou louer un vélo. [Ici des photos!](https://www.google.fr/search?q=bateau+ile+d%27yeu&biw=1366&bih=591&source=lnms&tbm=isch&sa=X&sqi=2&ved=0CAgQ_AUoA2oVChMI342pqdukyAIVC-caCh2GLgEy#tbm=isch&q=ile+d%27yeu)
@@ -13,11 +11,15 @@
 * **Hébergement?** je connais de nombreux plans allant du [camping municipal face à la plage de Ker Chalon](http://www.ile-yeu.fr/Hebergement/Camping) à des maisons à l'intérieur des terres qui nous reviendront à environ 30€/personne/jour. Saison touristique morte, bons plans. Voir pad.
 * **Inscription?** prendre connaissance des principes proposés et s'inscrire [sur le pad](https://mensuel.framapad.org/p/camp_ouvert_ile_yeu). 
 
+## Histoire
+
+> "Dis Thomas, ça te dis qu'on se fasse un week-end? J'ai plein de trucs à te raconter" (Alyssa Daoud, directrice CREPAQ Aquitaine). "ça te botte sur une île? Genre on en discute en se promenant sur les falaises et on se fait une belle vie?" "A fond" / "ça te dis une session avec @Clement_Epie? On viendrait travailler sur @cellabz" (@NicolasLoubet) "sur l'île d'Yeu ?" "oui :)" 
+
 ## Principes proposés pour le camp
 
 ![filtre](http://media1.coffee-webstore.com/themes/cupandco_v3/img/scat/filtre-cafetiere.jpg)
 
-Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Toulouse), [Lilian Ricaud](www.lilianricaud.com) (31-32) et   [Thomas Wolff](http://twitter.com/thom_wolff) (34-44) lors d'une baignade-storming dans les gorges de l'Hérault. 
+Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Toulouse), [Lilian Ricaud](www.lilianricaud.com) (31-32) et   [Thomas Wolff](http://twitter.com/thom_wolff) (34-44) lors d'une baignade-storming dans l'Hérault en août 2015.
 
 * **Ca commence quand ça commence, ça finit quand ça finit**
 
