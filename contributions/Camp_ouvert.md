@@ -1,6 +1,6 @@
 # Camp ouvert de l'île d'Yeu - Week-end du 23 octobre 2015
 
-Ca débute le vendredi 23 octobre 2015 au soir, et ça termine avec le dernier retour de bateau (17h) le dimanche. C'est gratuit, ouvert. Ce n'est ni un coworking, ni un accélérateur de projets, ni des journées de rencontres entre réseaux citoyens. C'est comme une rencontre de copains qui partagent des vocations et qui invitent d'autres personnes. C'est sur une île. 
+> Un format de coworking insolite qui débute le vendredi 23 octobre 2015 au soir et termine avec le dernier retour de bateau (17h) le dimanche. Permet à des individus qui n'ont pas spécialement le temps de se voir de se retrouver dans un cadre magnifique. C'est gratuit, ouvert. 
 
 > "Dis Thomas, ça te dis qu'on se fasse un week-end? J'ai plein de trucs à te raconter" (Alyssa Daoud, directrice CREPAQ Aquitaine). "ça te botte sur une île? Genre on en discute en se promenant sur les falaises et on se fait une belle vie?" "A fond" / "ça te dis une session avec @Clement_Epie? On viendrait travailler sur @cellabz" (@NicolasLoubet) "sur l'île d'Yeu ?" "oui :)" 
 
