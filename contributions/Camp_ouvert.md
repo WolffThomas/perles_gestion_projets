@@ -43,4 +43,10 @@ Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Tou
 
 > Organisation, réservation du lieu, organisation du covoiturage à l'initiative des participants.
 
-## Informations minimalistes pour l'organisation 
+## Informations 
+
+![localisation](http://www.yeunet.com/venir/media/index/CarteVenir.jpg)
+
+* Pour la [traversée en bateau](http://www.ile-yeu.fr/Acces/Traversees-maritimes) depuis Fromentine, il est préférable de réserver en ligne au moins 4 jours avant le jour d'arrivée. Compter 36€ l'aller-retour. 
+
+
