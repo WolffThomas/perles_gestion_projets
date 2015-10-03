@@ -31,7 +31,7 @@ Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Tou
 
 * **Proposer, ne pas déranger**
 
-> Aucune activité n'est proposée, pas même des ateliers. Vous pouvez par exemple proposer le jour même une session de randonnée/coworking. Il se peut que plusieurs participants aient à ce moment là besoin de travailler individuellement sur leurs projets, et aient besoin de calme.
+> Aucune activité n'est proposée, pas même des ateliers. Vous pouvez par exemple proposer le jour même une session de randonnée/coworking. Il se peut que plusieurs participants aient à ce moment là besoin de travailler individuellement sur leurs projets et aient besoin de calme.
 
 * **Privilégier, favoriser, enrichir les biens communs**
 
