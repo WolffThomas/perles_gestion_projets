@@ -5,9 +5,11 @@ Les camps ouverts sont des formats de coworking insolites pour prendre du recul 
 ![coworking](https://framapic.org/ZFf0tQCcfpLA/yU7gwcoXC8N5.jpg)
 > Réflexions autour de feu de bois, randonnées au bord de l'Erdre (Nantes) et ateliers ponctueront nos quelques jours. 
 
-## Histoire
+## Introduction
 
-> Pierre Belleney, auteur du livre [Changer le monde en deux heures](https://www.facebook.com/en2heures), m'a demandé du feed-back sur son livre. Il semble chercher à favoriser des micro-engagements chez des citoyens déjà/peu/pas engagés et qui ont comme ambition "d'améliorer la situation commune". A [Onpasseàlacte](http://onpassealacte.fr), on a pris le pari de publier plus de 400 vidéos et documentaires de celles et ceux qui sont passés à l'action, pour inspirer et montrer qu'on peut le faire. De mon côté c'est à travers l'enseignement sup' et l'animation d'architectures collaboratives que je tente de le faire. Trois approches différentes, vers un même but? Comment l'évalue t-on? Comment agir finement?  [Thomas Wolff](https://fr.linkedin.com/in/thomas-wolff-a8aa41a5)
+Par [Thomas Wolff](https://fr.linkedin.com/in/thomas-wolff-a8aa41a5):
+
+> Pierre Belleney, auteur du livre [Changer le monde en deux heures](https://www.facebook.com/en2heures), m'a demandé du feed-back sur son livre. Il semble chercher à favoriser des micro-engagements chez des citoyens déjà/peu/pas engagés et qui ont comme ambition "d'améliorer la situation commune". A [Onpasseàlacte](http://onpassealacte.fr), on a pris le pari de publier plus de 400 vidéos et documentaires de celles et ceux qui sont passés à l'action, pour inspirer et montrer qu'on peut le faire. De mon côté c'est à travers l'enseignement sup' et l'animation d'architectures collaboratives que je tente de le faire. Trois approches différentes, vers un même but? Comment l'évalue t-on? Comment agir finement? 
 
 ## Informations pratiques
 
