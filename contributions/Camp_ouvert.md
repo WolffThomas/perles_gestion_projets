@@ -12,11 +12,25 @@ Les camps ouverts sont des formats de coworking insolites demandant peu d'organi
 
 ## Informations pratiques
 
-* **Hebergement** possible chez Thomas, 65 rue de la Tremissinière, 44300 Nantes (au bord de l'Erdre)
-* **Programme**
- * dimanche 10 janvier 2016, 13h: lancement des ateliers avec réalisation d'un Speed Boat: que cherche t-on réellement à provoquer, pourquoi, sur quelles hypothèses nous sommes partis pour en arriver là... S'il fait beau, réalisation en randonnée-canoë sur l'Erdre. 
- * lundi, mardi, mercredi: exploration intensive de la thématique sous différents angles. Visioconférences possibles (neuroscientifiques, psychologues, porteurs de projets citoyens innovants, ...). 
- * jeudi 14 janvier 2016, journée "agilité et pédagogie" pour [Agile Le Mans](http://agile-mans.org/#programme). Rencontre avec des agilistes / pédagogues avec possibilité d'explorer avec eux la thématique. 
+* **Hebergement** possible chez Thomas, 65 rue de la Tremissinière, 44300 Nantes (maison au bord de l'Erdre). Apportez sac de couchage. 
+* **Dates** débute le dimanche 10 janvier 2016 vers midi, fini le jeudi 14 janvier 2016 soir
+* **Inscriptions** téléphonez: 06-42-45-97-81
+* **On appporte quoi?** si vous avez des ouvrages, des contacts, ... ils seront les bienvenus. 
+
+## Programme 
+
+
+* **Dimanche 10 janvier 2016, après-midi: Catharsis**
+
+> lancement des ateliers avec réalisation d'un Speed Boat: que cherche t-on réellement à provoquer, pourquoi, sur quelles hypothèses nous sommes partis pour en arriver là... S'il fait beau, réalisation en randonnée-canoë sur l'Erdre. 
+
+**Lundi, mardi, mercredi: exploration intensive de la thématique sous différents angles.**
+
+> Visioconférences possibles (neuroscientifiques, psychologues, porteurs de projets citoyens innovants, ...). Organisation collective en Kanban. Retrospectives-feu-tisanes à la fin de chaque journée. Possibilité d'aller sur l'île d'Yeu, coworking insolite dans Nantes, ...
+
+**Jeudi 14 janvier 2016, journée "agilité et pédagogie"**
+
+> Proposition de venir à [Agile Le Mans](http://agile-mans.org/#programme). Rencontre avec des agilistes / pédagogues avec possibilité d'explorer avec eux la thématique. 
 
 ## Principes proposés pour le camp
 
