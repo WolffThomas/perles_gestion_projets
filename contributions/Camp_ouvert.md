@@ -1,9 +1,8 @@
 # Camp ouvert "qu'est-ce qui fait qu'on passe à l'acte?" - région Nantaise, du 10 au 14 janvier 2015
 
-Les camps ouverts sont des formats de coworking insolites demandant peu d'organisation. Ces derniers sont régis autour d'une charte . Précédent camp: [île d'Yeu, octobre 2015](http://multibao.org/WolffThomas/perles_gestion_projets/contributions/passe/Camp_ouvert_oct15.md)
+Les camps ouverts sont des formats de coworking insolites pour prendre du recul sur une ou plusieurs thématiques. Ces derniers sont régis autour d'une charte. Précédent camp: [île d'Yeu, octobre 2015](http://multibao.org/WolffThomas/perles_gestion_projets/contributions/passe/Camp_ouvert_oct15.md). Prochain camp: "Qu'est-ce qui fait qu'on passe à l'acte, janvier 2015, région Nantaise". 
 
 ![Erdre](http://p1.storage.canalblog.com/15/09/781963/71427618.jpg)
-
 > Réflexions autour de feu de bois, randonnées au bord de l'Erdre (Nantes) et ateliers ponctueront nos quelques jours. 
 
 ## Histoire
@@ -15,7 +14,8 @@ Les camps ouverts sont des formats de coworking insolites demandant peu d'organi
 * **Hebergement** possible chez Thomas, 65 rue de la Tremissinière, 44300 Nantes (maison au bord de l'Erdre). Apportez sac de couchage. 
 * **Dates** débute le dimanche 10 janvier 2016 vers midi, fini le jeudi 14 janvier 2016 soir
 * **Inscriptions** téléphonez: 06-42-45-97-81
-* **On appporte quoi?** si vous avez des ouvrages, des contacts, ... ils seront les bienvenus. 
+* **On appporte quoi?** si vous avez des ouvrages, des contacts, ... ils seront les bienvenus
+* **Peut-on inviter du monde?** oui
 
 ## Programme 
 
