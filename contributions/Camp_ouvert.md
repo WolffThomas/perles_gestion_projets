@@ -1,15 +1,16 @@
 # Camp ouvert "qu'est-ce qui fait qu'on passe à l'acte?" - région Nantaise, du 10 au 14 janvier 2015
 
-Les camps ouverts sont des formats de coworking insolites pour prendre du recul sur une ou plusieurs thématiques. Ces derniers sont régis autour d'une charte. Précédent camp: [île d'Yeu, octobre 2015](http://multibao.org/WolffThomas/perles_gestion_projets/contributions/passe/Camp_ouvert_oct15.md). Prochain camp: "L'engagement citoyen, janvier 2015, région Nantaise". 
+Les camps ouverts sont des formats de coworking insolites pour *prendre du recul sur des projets nous avons lancé ou souhaiterions lancer*. La présence d'un groupe travaillant sur des thématiques similaires nous invite à approfondir nos pratiques et notre vision. Les camps ouverts sont régis autour d'une charte. Précédent camp: [île d'Yeu, octobre 2015](http://multibao.org/WolffThomas/perles_gestion_projets/contributions/passe/Camp_ouvert_oct15.md). Prochain camp: "L'engagement citoyen, janvier 2015, région Nantaise". 
 
 ![coworking](https://framapic.org/ZFf0tQCcfpLA/yU7gwcoXC8N5.jpg)
-> Réflexions autour de feu de bois, randonnées au bord de l'Erdre (Nantes) et ateliers ponctueront nos quelques jours. 
+> Coworking dans des endroits insolites, réflexions autour du feu, randonnées au bord de l'Erdre (Nantes) et ateliers ponctueront nos quelques jours. 
 
 ## Introduction
 
 Par [Thomas Wolff](https://fr.linkedin.com/in/thomas-wolff-a8aa41a5):
 
-> Pierre Belleney, auteur du livre [Changer le monde en deux heures](https://www.facebook.com/en2heures), m'a demandé du feed-back sur son livre. Il semble chercher à favoriser des micro-engagements chez des citoyens déjà/peu/pas engagés et qui ont comme ambition "d'améliorer la situation commune". A [Onpasseàlacte](http://onpassealacte.fr), on a pris le pari de publier plus de 400 vidéos et documentaires de celles et ceux qui sont passés à l'action, pour inspirer et montrer qu'on peut le faire. De mon côté c'est à travers l'enseignement sup' et l'animation d'architectures collaboratives que je tente de le faire. Trois approches différentes, vers un même but? Comment l'évalue t-on? Comment agir finement? 
+> Ce camp est proposé par Pierre Belleney et par moi-même suite à un échange que nous avons eu fin décembre. Pierre, que j'ai rencontré lors de l'étape bordelaise du [Ticket for Change](www.ticketforchange.org/), a écrit un livre intitulé [Changer le monde en deux heures](https://www.facebook.com/en2heures). Il m'a demandé du feed-back sur son livre. Il cherche visiblement, comme lui même le dit, à favoriser chez des citoyens des micro-engagements (à vocation sociale et/ou environnementale). Et bien je ne sais pas trop quoi donner comme feed-back. A [Onpasseàlacte](http://onpassealacte.fr), on a pris le pari de publier plus de 400 vidéos et documentaires de celles et ceux qui sont passés à l'action, pour inspirer et montrer qu'on peut passer à l'action. De mon côté, j'ai pris un tout autre pari et passe pas mal de temps dans l'enseignement supérieur et en animation. Alors que ces différentes approches semblent toutes poindre vers "favoriser l'engagement citoyen (à vocation sociale et/ou environnementale)", pourquoi et comment le faisons nous réellement? Comment évaluons-nous ce que nous avons déjà mis en place? 
+
 
 ## Informations pratiques
 
