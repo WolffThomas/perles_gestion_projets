@@ -14,12 +14,13 @@ Par [Thomas Wolff](https://fr.linkedin.com/in/thomas-wolff-a8aa41a5):
 
 ## Informations pratiques
 
-![Erdre](![Erdre](http://p1.storage.canalblog.com/15/09/781963/71427618.jpg))
+![Erdre](![Erdre](http://p1.storage.canalblog.com/15/09/781963/71427618.jpg)
 > Au matin pour aller chercher le ptit déj'.
 
 * **Hebergement** possible chez Thomas, 65 rue de la Tremissinière, 44300 Nantes (maison au bord de l'Erdre, beau jardin). Apportez sacs de couchage. 
 * **Dates** débute le dimanche 10 janvier 2016 vers midi, fini le jeudi 14 janvier 2016 soir
 * **Inscriptions** téléphonez: 06-42-45-97-81
+* **Gratuit** 
 * **On appporte quoi?** si vous avez des ouvrages, des contacts, ... ils seront les bienvenus
 * **Peut-on inviter du monde?** oui
 
