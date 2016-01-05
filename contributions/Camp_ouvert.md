@@ -1,4 +1,4 @@
-# Camp ouvert/coworking porteurs de projets "favoriser l'engagement citoyen" - région Nantaise, du 17 au  21 janvier 2015
+# Camp ouvert/coworking porteurs de projets "favoriser l'engagement citoyen" - région Nantaise, du 17 au  21 janvier 2016
 
 Les camps ouverts sont des formats de coworking pour *prendre du recul sur des projets nous avons lancé ou souhaiterions lancer*. La présence d'un groupe travaillant sur des thématiques similaires nous invite à approfondir nos pratiques et notre vision. Les camps ouverts sont régis autour d'une charte. Précédent camp: [île d'Yeu, octobre 2015](http://multibao.org/WolffThomas/perles_gestion_projets/contributions/passe/Camp_ouvert_oct15.md). Prochain camp: "favoriser l'engagement citoyen, janvier 2015, région Nantaise". 
 
