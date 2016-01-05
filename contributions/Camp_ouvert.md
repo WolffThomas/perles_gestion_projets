@@ -1,6 +1,6 @@
-# Camp ouvert "qu'est-ce qui fait qu'on passe à l'acte?" - région Nantaise, du 10 au 14 janvier 2015
+# Camp ouvert/coworking porteurs de projets "favoriser l'engagement citoyen" - région Nantaise, du 10 au 14 janvier 2015
 
-Les camps ouverts sont des formats de coworking insolites pour *prendre du recul sur des projets nous avons lancé ou souhaiterions lancer*. La présence d'un groupe travaillant sur des thématiques similaires nous invite à approfondir nos pratiques et notre vision. Les camps ouverts sont régis autour d'une charte. Précédent camp: [île d'Yeu, octobre 2015](http://multibao.org/WolffThomas/perles_gestion_projets/contributions/passe/Camp_ouvert_oct15.md). Prochain camp: "L'engagement citoyen, janvier 2015, région Nantaise". 
+Les camps ouverts sont des formats de coworking pour *prendre du recul sur des projets nous avons lancé ou souhaiterions lancer*. La présence d'un groupe travaillant sur des thématiques similaires nous invite à approfondir nos pratiques et notre vision. Les camps ouverts sont régis autour d'une charte. Précédent camp: [île d'Yeu, octobre 2015](http://multibao.org/WolffThomas/perles_gestion_projets/contributions/passe/Camp_ouvert_oct15.md). Prochain camp: "favoriser l'engagement citoyen, janvier 2015, région Nantaise". 
 
 ![coworking](https://framapic.org/ZFf0tQCcfpLA/yU7gwcoXC8N5.jpg)
 > Coworking dans des endroits insolites, réflexions autour du feu, randonnées au bord de l'Erdre (Nantes) et ateliers ponctueront nos quelques jours. 
@@ -26,7 +26,7 @@ Par [Thomas Wolff](https://fr.linkedin.com/in/thomas-wolff-a8aa41a5):
 
 ## Programme 
 
-**Dimanche 10 janvier 2016, après-midi: ouverture et clarifications**
+**Dimanche 10 janvier 2016, après-midi: ouverture et clarifications "favoriser l'engagement citoyen?"**
 
 > Lancement des ateliers avec réalisation d'un Speed Boat: présentations, que cherche t-on réellement à provoquer, pourquoi, sur quelles hypothèses nous sommes partis pour en arriver là... S'il fait beau, réalisation en randonnée-canoë sur l'Erdre. 
 
