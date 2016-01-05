@@ -4,13 +4,19 @@ Les camps ouverts sont des formats de coworking insolites demandant peu d'organi
 
 ![Erdre](http://p1.storage.canalblog.com/15/09/781963/71427618.jpg)
 
-> Réflexions autour de feu de bois, randonnées au bord de l'Erdre et ateliers ponctueront nos quelques jours. 
+> Réflexions autour de feu de bois, randonnées au bord de l'Erdre (Nantes) et ateliers ponctueront nos quelques jours. 
 
 ## Histoire
 
-> "Salut Thomas, est-ce que tu pourrais me faire du feed-back sur mon livre" (Pierre Belleney, auteur d'un livre sur le micro-engagement)
-> "Oui. Je l'ai lu. Tu sembles chercher à créer des situations propices à l'engagement citoyen (à vocation sociale et/ou environnementale) à travers un livre. Comment fais tu pour l'évaluer? A [Onpasseàlacte](http://onpassealacte.fr), on publie des vidéos et documentaires inspirants (environ 400 actuellement). De mon côté, je propose des conditions qui me semblent favorables à un changement de pensée (en écoles d'ing et univ). Donc déjà on a là trois médias différents (livre, vidéos, architectures collaboratives). ça te dis de bosser dessus quelques jours intensivement? On pourrait comparer les approches, les affiner, demander avis à celles et ceux qui ont planché dessus" [Thomas Wolff](https://fr.linkedin.com/in/thomas-wolff-a8aa41a5)
-> "Quand es tu dispo? On peut inviter du monde?" (Pierre)
+> Pierre Belleney, auteur du livre [Changer le monde en deux heures](https://www.facebook.com/en2heures), m'a demandé du feed-back sur son livre. Il semble chercher à favoriser des micro-engagements chez des citoyens déjà/peu/pas engagés et qui ont comme ambition "d'améliorer la situation commune". A [Onpasseàlacte](http://onpassealacte.fr), on a pris le pari de publier plus de 400 vidéos et documentaires de celles et ceux qui sont passés à l'action, pour inspirer et montrer qu'on peut le faire. De mon côté c'est à travers l'enseignement sup' et l'animation d'architectures collaboratives que je tente de le faire. Trois approches différentes, vers un même but? Comment l'évalue t-on? Comment agir finement?  [Thomas Wolff](https://fr.linkedin.com/in/thomas-wolff-a8aa41a5)
+
+## Informations pratiques
+
+* **Hebergement** possible chez Thomas, 65 rue de la Tremissinière, 44300 Nantes (au bord de l'Erdre)
+* **Programme**
+ * dimanche 10 janvier 2016, 13h: lancement des ateliers avec réalisation d'un Speed Boat: que cherche t-on réellement à provoquer, pourquoi, sur quelles hypothèses nous sommes partis pour en arriver là... S'il fait beau, réalisation en randonnée-canoë sur l'Erdre. 
+ * lundi, mardi, mercredi: exploration intensive de la thématique sous différents angles. Visioconférences possibles (neuroscientifiques, psychologues, porteurs de projets citoyens innovants, ...). 
+ * jeudi 14 janvier 2016, journée "agilité et pédagogie" pour [Agile Le Mans](http://agile-mans.org/#programme). Rencontre avec des agilistes / pédagogues avec possibilité d'explorer avec eux la thématique. 
 
 ## Principes proposés pour le camp
 
@@ -28,7 +34,7 @@ Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Tou
 
 * **Proposer, ne pas déranger**
 
-> Aucune activité n'est proposée, pas même des ateliers. Vous pouvez par exemple proposer le jour même une session de randonnée/coworking. Il se peut que plusieurs participants aient à ce moment là besoin de travailler individuellement sur leurs projets et aient besoin de calme.
+> Aucune activité n'est obligatoire, l'organisation est libre. Vous pouvez par exemple proposer le jour même une session de randonnée/coworking. Il se peut que plusieurs participants aient à ce moment là besoin de travailler individuellement sur leurs projets et aient besoin de calme.
 
 * **Privilégier, favoriser, enrichir les biens communs**
 
@@ -37,17 +43,6 @@ Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Tou
 * **Si une situation ne convient pas, construire une alternative**
 
 > Le format de l'évènement est ouvert. Si dormir dans un dortoir ne convient par exemple pas, trouver un gîte non loin du lieu. 
-
 * **Pas de comité de pilotage**
 
 > Organisation, réservation du lieu, organisation du covoiturage à l'initiative des participants.
-
-## Informations 
-
-![localisation](http://www.yeunet.com/venir/media/index/CarteVenir.jpg)
-
-* Pour la [traversée en bateau](http://www.ile-yeu.fr/Acces/Traversees-maritimes) depuis Fromentine, il est préférable de réserver en ligne au moins 4 jours avant le jour d'arrivée. Compter 36€ l'aller-retour. 
-
-* Pour la réservation de nuit au camping ou dans un gîte, il est possible de retarder la décision le plus tard possible du fait qu'on trouve assez facilement un hébergement fin octobre ... 
-
-* Toutes les autres informations sont indiquées dans le [pad](https://mensuel.framapad.org/p/camp_ouvert_ile_yeu). 
