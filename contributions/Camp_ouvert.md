@@ -9,31 +9,29 @@ Les camps ouverts sont des formats de coworking insolites pour *prendre du recul
 
 Par [Thomas Wolff](https://fr.linkedin.com/in/thomas-wolff-a8aa41a5):
 
-> Ce camp est proposé par Pierre Belleney et par moi-même suite à un échange que nous avons eu fin décembre. Pierre, que j'ai rencontré lors de l'étape bordelaise du [Ticket for Change](www.ticketforchange.org/), a écrit un livre intitulé [Changer le monde en deux heures](https://www.facebook.com/en2heures). Il m'a demandé du feed-back sur son livre. Il cherche visiblement, comme lui même le dit, à favoriser chez des citoyens des micro-engagements (à vocation sociale et/ou environnementale). Et bien je ne sais pas trop quoi donner comme feed-back. A [Onpasseàlacte](http://onpassealacte.fr), on a pris le pari de publier plus de 400 vidéos et documentaires de celles et ceux qui sont passés à l'action, pour inspirer et montrer qu'on peut passer à l'action. De mon côté, j'ai pris un tout autre pari et passe pas mal de temps dans l'enseignement supérieur et en animation. Alors que ces différentes approches semblent toutes poindre vers "favoriser l'engagement citoyen (à vocation sociale et/ou environnementale)", pourquoi et comment le faisons nous réellement? Comment évaluons-nous ce que nous avons déjà mis en place? 
-
+> Ce camp est proposé par Pierre Belleney et par moi-même suite à un échange que nous avons eu fin décembre. Pierre, que j'ai rencontré lors de l'étape bordelaise du [Ticket for Change](www.ticketforchange.org/), a écrit un livre intitulé [Changer le monde en deux heures](https://www.facebook.com/en2heures). Il m'a demandé du feed-back sur son livre. Il cherche visiblement, comme lui même le dit, à favoriser chez des citoyens des micro-engagements (à vocation sociale et/ou environnementale). Et bien je ne sais pas trop quoi donner comme feed-back. A [Onpasseàlacte](http://onpassealacte.fr), on a pris le pari de publier plus de 400 vidéos et documentaires de celles et ceux qui sont passés à l'action, pour inspirer et montrer qu'on peut passer à l'action. De mon côté, j'ai pris un tout autre pari et passe pas mal de temps dans l'enseignement supérieur et en animation. Alors que ces différentes approches semblent toutes poindre vers "favoriser l'engagement citoyen (à vocation sociale et/ou environnementale)", pourquoi et comment le faisons nous réellement? Comment évaluons-nous ce que nous avons déjà mis en place? J'invite celles et ceux qui se penchent sur la question et qui sont disponibles à ce moment là à se joindre à nous pour cette session du **10 au 14 janvier 2016**.
 
 ## Informations pratiques
 
-![Erdre](![Erdre](http://p1.storage.canalblog.com/15/09/781963/71427618.jpg)
-> Au matin pour aller chercher le ptit déj'.
+![Erdre](http://p1.storage.canalblog.com/15/09/781963/71427618.jpg)
+> Au matin pour aller chercher le ptit déj'. 
 
-* **Hebergement** possible chez Thomas, 65 rue de la Tremissinière, 44300 Nantes (maison au bord de l'Erdre, beau jardin). Apportez sacs de couchage. 
-* **Dates** débute le dimanche 10 janvier 2016 vers midi, fini le jeudi 14 janvier 2016 soir
+* **Hebergement** possible chez Thomas, 65 rue de la Tremissinière, 44300 Nantes (maison au bord de l'Erdre, beau jardin). Apportez des sacs de couchage. 
+* **Dates** débute le dimanche 10 janvier 2016 vers midi, fin le jeudi 14 janvier 2016 soir.
 * **Inscriptions** téléphonez: 06-42-45-97-81
 * **Gratuit** 
-* **On appporte quoi?** si vous avez des ouvrages, des contacts, ... ils seront les bienvenus
+* **On appporte quoi?** ce que vous souhaitez
 * **Peut-on inviter du monde?** oui
 
 ## Programme 
 
+* **Dimanche 10 janvier 2016, après-midi: ouverture et clarifications**
 
-* **Dimanche 10 janvier 2016, après-midi: Catharsis**
-
-> lancement des ateliers avec réalisation d'un Speed Boat: que cherche t-on réellement à provoquer, pourquoi, sur quelles hypothèses nous sommes partis pour en arriver là... S'il fait beau, réalisation en randonnée-canoë sur l'Erdre. 
+> Lancement des ateliers avec réalisation d'un Speed Boat: présentations, que cherche t-on réellement à provoquer, pourquoi, sur quelles hypothèses nous sommes partis pour en arriver là... S'il fait beau, réalisation en randonnée-canoë sur l'Erdre. 
 
 **Lundi, mardi, mercredi: exploration intensive de la thématique sous différents angles.**
 
-> Visioconférences possibles (neuroscientifiques, psychologues, porteurs de projets citoyens innovants, ...). Organisation collective en Kanban. Retrospectives-feu-tisanes à la fin de chaque journée. Possibilité d'aller sur l'île d'Yeu, coworking insolite dans Nantes, ...
+> Organisation collective en Kanban. Visioconférences possibles (neuroscientifiques, psychologues, porteurs de projets citoyens innovants, ...). Retrospectives-feu-tisanes à la fin de chaque journée. Possibilité d'aller sur l'île d'Yeu, coworking insolite dans Nantes, ...
 
 **Jeudi 14 janvier 2016, journée "agilité et pédagogie"**
 
@@ -43,7 +41,7 @@ Par [Thomas Wolff](https://fr.linkedin.com/in/thomas-wolff-a8aa41a5):
 
 ![filtre](http://media1.coffee-webstore.com/themes/cupandco_v3/img/scat/filtre-cafetiere.jpg)
 
-Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Toulouse), [Lilian Ricaud](www.lilianricaud.com) (31-32) et   [Thomas Wolff](http://twitter.com/thom_wolff) (34-44) lors d'une baignade-storming dans l'Hérault en août 2015.
+Déterminés entre [Salma Otmani](fr.viadeo.com/fr/profile/salma.otmani) (31-Toulouse), [Lilian Ricaud](www.lilianricaud.com) (31-32) et [Thomas Wolff](http://twitter.com/thom_wolff) (34-44) lors d'une baignade-storming dans l'Hérault en août 2015.
 
 * **Ca commence quand ça commence, ça finit quand ça finit**
 
