@@ -22,7 +22,7 @@ Par [Thomas Wolff](https://fr.linkedin.com/in/thomas-wolff-a8aa41a5):
 * **Gratuit** 
 * **On appporte quoi?** ce que vous souhaitez
 * **Peut-on inviter du monde?** oui
-* **Combien sommes nous-actuellement (suite à annonce publiée le 5 janvier 2016) **: 4
+* **Combien sommes nous-actuellement (suite à annonce publiée le 5 janvier 2016) **: 6
 
 ## Programme 
 
