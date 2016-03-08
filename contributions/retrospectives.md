@@ -42,7 +42,7 @@ De [nombreuses possibilités](http://plans-for-retrospectives.com/?id=1-2-3-18-2
 **Frise chronologie**
 
 L'idée est de faire ressortir ce qui s'est passé. 
-On étale sur une grande table une nappe sur laquelle on dessinne une frise chronologique (depuis le début de la période jusqu'à la fin de la période étudiée).
+On étale sur une grande table une nappe sur laquelle on dessine une frise chronologique (depuis le début de la période jusqu'à la fin de la période étudiée).
 Chacun des participants écrit les évènements marquants sur des post-its et les ordonne chronologiquement.
 Les participants collent les post-its sur la nappe et les lisent à haute voix. 
 
