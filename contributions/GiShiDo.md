@@ -1,3 +1,10 @@
+---
+author: Thomas Wolff
+description: Le Gi Shi Do
+caption: null
+published: false
+title: Getting Your Shit Done
+---
 #GISHIDO
 
 ##The Art of **G**etting your **S**hit **D**one
